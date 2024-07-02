@@ -1,0 +1,10 @@
+main	/datacommons/yoderlab/users/hkania/cheiro
+results	/datacommons/yoderlab/users/hkania/cheiro/results
+reference_genome	/datacommons/yoderlab/users/hkania/cheiro/reference_genome
+metadata	/datacommons/yoderlab/users/hkania/cheiro/metadata
+fastq	/datacommons/yoderlab/users/hkania/cheiro/final_fastq
+scripts*	/datacommons/yoderlab/users/hkania/cheiro/scripts
+working_directory** /datacommons/yoderlab/users/hkania/cheiro_tests_june24
+
+* I would use the scripts uploaded to the GitHub page, as some of these scripts may be outdated.
+** This directory was used by Hannah when troubleshooting the scripts. It contains the slurms of the jobs completed to obtain the VCF files and other files to date as of July 2, 2024. It may be of use, so it is included here.

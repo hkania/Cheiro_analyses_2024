@@ -2,3 +2,7 @@
 #### Click on each folder to see the README.md files which explain their contents.
 * The final reference genome and dictionaries etc can be found at this path on the DCC cluster /datacommons/yoderlab/users/hkania/cheiro/reference_genome
   * Hannah may need to change permissions for other researchers to access in the future. Just reach out if necessary! The files are quite large to host here.
+
+* `/log`: Log of R script ran by Hannah to generate the scaffolded reference genome.
+* `/scripts`: scripts used to scaffold the Cheiro reference genome.
+* `/metadata`: metadata associated with reference genome.

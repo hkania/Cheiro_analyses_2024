@@ -6,5 +6,5 @@ fastq	/datacommons/yoderlab/users/hkania/cheiro/final_fastq
 scripts*	/datacommons/yoderlab/users/hkania/cheiro/scripts
 working_directory** /datacommons/yoderlab/users/hkania/cheiro_tests_june24
 
-* I would use the scripts uploaded to the GitHub page, as some of these scripts may be outdated.
-** This directory was used by Hannah when troubleshooting the scripts. It contains the slurms of the jobs completed to obtain the VCF files and other files to date as of July 2, 2024. It may be of use, so it is included here.
+* I would use the scripts uploaded to the [GitHub site](https://github.com/hkania/Cheiro_analyses_2024/tree/main), as some of these scripts may be outdated.
+** This directory was used by Hannah when troubleshooting the scripts. It contains the slurms of the jobs completed to obtain the VCF files and other files to date as of July 2, 2024. It may be of use, so it is included here. It also includes the running scripts used to generate VCF files that are now uploaded to the GitHub under the respective analysis repositories. Again, I would recommend using the scripts uploaded here instead of those sitting in these folders on the cluster.

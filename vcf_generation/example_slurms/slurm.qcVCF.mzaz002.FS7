@@ -1,0 +1,395 @@
+## Starting script qc_vcf.sh
+Tue Jul  2 05:56:25 AM EDT 2024
+
+## Indiv ID: mzaz002.FS7
+## VCF dir: /datacommons/yoderlab/users/hkania/cheiro/results/geno/final/
+## Input VCF file: /datacommons/yoderlab/users/hkania/cheiro/results/geno/final//mzaz002.FS7.vcf.gz
+## Base QC dir: /datacommons/yoderlab/users/hkania/cheiro/results/geno/qc/vcf_ind
+## Run bcftoolsStats: TRUE
+## Run bcftoolsStats by ind: FALSE
+
+## Run vcftools sitestats modules: TRUE
+
+## No .tbi file found...
+## Rezipping vcf using bgzip...
+## Indexing vcf with tabix...
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "‹ÅÎƒf"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "i±Ü\a¨ûşg‘ÄÀ[4®ıE3ZÓşô'­øşg|çÚhëiosÖ÷·O8ÓÜ16·?`±ƒÍ·©¯’§»U8ß¤Æ öF£üe›şúî>Œ?V‹`/oÙ›+ëi0§Óôîz,´ŒíU ·öpw×5ß$¾ë˜ïÒŞ‹p|›d"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "{Ş¶UbĞ«v¹¹¿îöïöû«ÅƒH;÷ÇÃ—¥è\Æ¹˜ŠtÇ‰Ä<ic±Ìg™„Õ…–Š	dL~QúC¦E±œJÒ±Hµy”å¥Ã)gön«3Ùkg.—iòÁÕé p\®½¥Ï™öáóõ]‡Û6Î*¾>€ˆÈáµ©(^ŒÚ>şâîã/Dœä˜ÕîTÇPvní2ÈÓ(îßd{ñõe?8L×Q-`½Ş­–<d"}c)l©æ €ö€àû´}ÄíAŞÎ^²hÎµå,Ì0«ÍÂå¼;Š İ1tO‹$‚…®À@Ô¦'­Ó>`ì¥b.ky¢%1¨ Š™Hwø¼ì}Ÿ—½MŸ°µĞD8ši«8úm%ˆ¢TT¨MX±–…‹% ëíÃ*×ÀŒR [9œı¤’8#€^*Fğßl½¾:uš&«åW•"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "À–+™LEçÿÔ2Dâùj>.® –Î$œgT«	Ldp·N’b´@DZ:²	=Ø`ŠôÛ‹Äóh¾‹ËÍÑŠ(ÈØÓxùĞ¿¼é¯Ç""X:İ««õà2iĞX{6@œâCçdô”¤ŸNfËOÖÉh&¢4gr¨…8™„°û	¾Å@°Sæ·ä0Â8îÁÀé0Id7N!Æ¥:JI{a1P/ÂçûUœGÑÑ™òíCÁø€çÃ³6Nbé…XXäıßƒA÷úöêl='‚<	&)|œCªhsn”<Š4œŠ3Iê·ÎÍù9ı¾—7Kß"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Ø<éPA@ÚÁNIô{ı`MCX1WŸDÏÁ._ÄdPb°DVÒ ş’§`™äš_^>»b•‰›4‚ÕÂy‘î¢z"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "®æù{Àúz"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: ":[ŠTÂ/ìw•L¹ßßî‹O8gÿ.äq¬.cwTããr¢pÎdRÚz~Ó|AÅ¼\SÌˆE”IÉôÆŒ¬]‘(ƒß"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "IópÚéwÑ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Ëü|‘µ²Ê'R•1>9Yüşn¼×i­•†Oå9Yü¹…)aÛ.K/úïo>ô{²lüêd•³•`|Ğ¿ÍZùbIŒWx"¦¡ø*«p+İ¶_Û¥LôÁÖú­áªîØV·§CeÉ²5Å°w^LUø]ìÒOâºæÚ˜8/Û·-Pï½F]ìğ~ˆ¡ºq·êGÖ“R—K†‰¬H«\×=U0ºìİV5‚ ¤Ö>FIÑÊ”…4×MÓ»ë(q¸ b&2ß*‚T–+ëê¡¨"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÇÒñä`F§9˜Ôz]ôÔªFtD®Ní¦V´›ÊLÙ[ÊíëA	u”€öO—Mj±#åòp¬¯ë|½è»¨ÔÊ:B}‚şP4"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ú²ìôUÑ*T"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "-X½jq1 1(L_”#j!em.*µ À“ğ\…Æî4Šß†Å¥Û¿¶AE¢n2qDÏXªïĞYECêeÿ¢ıKµ­B„ÓGØèÔ6Ô'Ï“ÕËáÀ:½x0¡YF=%ùÜ!Ğ™¢ÄZp‰—5—²)\Š(ñl\óeı¥,8×KgÉÓÏÑÁ¡’<¡&ËW]¿ûpy6¬§	¿ĞjéU¶3Qõ`õÄt”É"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "­á“¢†„ĞVN×‰â.ëW@(A¿ejÍôIÍUC7Q$A(ø%«l	Šc'mÔ™º™’Òhu5¶¦Ï“:Iÿ'ñş'ñş;'Ş¦í´™¯&Lb½¸R?­n¸ºŸ»R§Û-*©£x}íw,oåMf÷jX^®W7€áOq¹fêıúúøó­ãÏçI¸ıöEqøyZDÉË7ŸÙ?äÖqˆÊd®º–LÔWyÄx­„ÍíååC™ƒ¶Ú#Üÿéò¹¿6I“…öK4%Ïp¿Ëµy9§‹AœŞEÆú˜µâ&õØå¥f´}ø·¼­ğNË„´â•…Eø¢ÍÂG¡=òıƒ·T‡•|áÖUø/tÑM¯å@†Ò:Ôg)—NãÿİÜô¬¿}Å¾W„A,é]y-\í^áöÖÏ#`/ÿç­±q×½,bámòš¶²†;j›íæ¡çƒ¯<m%ïîëûaåà½÷Ã›§^Æ©”ÇN1™|…õ·(/rŠœ(d\¸&©·¾4WßX®/¿é~F^s‡tíNÃ(&¶±ògôø/ú/"ŠÁÎB-!Æú€šÿë«³Ã"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ŸÂ×i"65´·-Iª‘X|Óğ]“™M617Ñˆ$´İÈDzVS‰Ë<8^3±²3Ê@Ã+«™	àÜ¨f«¡-ã¤1™€XÍ×Ü· fZÅ~Pcnc!"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "'“d>6jC›åûÅÎõ]V‡^©kŸœ|õ•6+ß/Üx·g=¼ùëñ«ZL=Œ&ôh<#ñT=g-nüÏ,ÏæÑƒNŸ·éÊà}Öô×ôküÔ²x™iúöø½o~ßiòq|õ×šükÛis&ŸÌÿğãéÏ÷7×G·7ƒ£ËŞÑıÙùQ÷jxt÷¡{uTüñÜ5åGÅ_¤•{ÿ°Ù'!8;j]uĞ´œ#úËÊ£îi‡½ëwŒ–ı®Ûïğwê“éñ®wÛqßÕG;fû™ïÎ˜’Ïá°Z>Ç’\ßÁ5ß]+Ëïz8£á¿Û|bj°ónpss8†t1lw{íŞmûâ®}{udœ°6?¶ÛnÛñÛ€ŒcãØñwD‚óZ$RB!A&QËæIe›T^ËçÛBA[Êd´Ğî“É<æmØ?8DòvEr©‡H§GÃ# İa2éàßqI(ÆöJå¶,Ã:T2¿åzÛ’é¬TÉ†Ì±O6ûØi3Öö}ü´!²Ş¶xØpY%ù%NÈø·ÙÙÁôJ¸³×á¼c«Í¸À"C½°-"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ĞB>ú‘„ÜÂÍHª<Î·7…Â—ÛË^%œul"š ›ñ$…†\CØŠDeÖ­<Ïáv]Î’ zœDu¾Ù\lÇ	YËwJi™É÷Ç—ÙvÚ®…$3¶¥ò-äÎZªãËøxÁL"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "f¡÷æ"—èèùMÌ^Ñlm„çü@£áHë•äu¸ÍŒ–ç6…˜gïÅüuÒâ¦+“Ö®+rŸ‘*k¡»>Ğ`&—ó¾Ñ^^ËŞÉÇëò	‰Ù7_~«íUÀ_ÊœòÛ	lï AäJ3^ü»lz_la"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "•æ¬n¶ïĞfObo¹%r$wk?"Óµ]³Í5·%£ş¡"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "“d|_Ú“ İ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "•ø°âî¬ ¡9W®Ã³nÊÀ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "dq¹:`#²R-äŠùx¬2,+R½KR°Ôz	öÔ¹+¿äYE÷€}‹A¥¨ï2<|–S¶ê»;±yåôÌ%“ìïxuó6ãDcö÷¼¼y€¼zı5W¯DTÎË³YbˆŒ7¾H1rAõûçïïñoEäñ´’È”Íª=·Ìÿ·R¯¯0lËAr=n¯êå)½>ƒÿÅ`ù"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "}µİ:ƒŞÿ!ôÁ©×¢—¢Üõì=*ˆ÷å_ŞJÉìUû>HU°Ÿ¬üé|ÎC}©:2Àı£˜¹Ï,›ÇÒ’JÇÿ!šµl©èŠ‹¦Åx0ìj¼ôqcŞf…×øb÷Ÿûºö"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "œT²V.5;]Ÿ‰xaãÿ­-AÃÍ‹T.”¹9¢ì¹ÕsA…óú¼Æ†»êÀJ‹‰rU¯­«-kĞÌŒRİôÙ•ìnÆM4[`P…èªj VÕtHmBè€)#LÛÊ"¾®ÕB "›,Ü>ußHÉxŒ‘"ÈÚgànJÌİô"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "¹3¿m[“¨_ŸlÍ‚æ÷¯³­™¾	µØñO öN‰PÖ8ğ«;XÛ\@ò175lØ?èòæâi¹e„5¤ó)u‡Õj-Ô8ŸÆŞ÷'etNiğÂQEh®vy_Çj:"kÀÈš>—Ió›0%|ë	~úzÖ¸æ.91¹X…zô§Û/Ç3§¶f|Á‘ÎÜpıÒ7Pò/6Öv¡~5¬1ê®$î^M§ä3C"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: ")•F”eT°)¬OBd©É:–şOæ00™‘–FÓ6š:9ôDwù'–é÷+=é~aÒø²vÈõ7ĞÜRÛN–D“óP6>ìşÃÄİi0ÔÒ *y-®û4AnŞ_}ÚC|½©iS—k m¤ş³Y•x—2j±µ0§˜âDj?ébœLÍ7ã-PZ2¶Ö¯ª<Xd—«ß%\NBÓMpåóÙ•O0+†ÄœíÉ\;œ¶¶ù8k-ë˜¤L¼6çá©"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ôé]‰û÷éFÅd½±¾°Ÿßx¯Öl¼FA/Zå˜=ƒ°¨9ê	‚!^ÿìÖ¨;’	k"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "®´V=–Ræ.×51ğûMÅˆÊŒêÆ÷§ÍbV$2ÃÉ\Q#ª{ÌMB’¹Ï_r#@ıËlb^d|dÿºœ½‚#ÍÉôåéÖ &«íïÇÅäcU³X¿ğºBQÎø°êY¬_rÇ¬ßƒm|pÏÔ%"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Kèân²¸ÃÚ÷CAÎw%"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "7Õíeıİ#æäiW~ØIÜÚm©-Õ·Û4ÕÎæëR†‰9ÙŠó¦‰î’Ï‚ä÷÷ß?‡‰Múf£Ä¼Úı"¾®±ÿ\+fánÍ®¯Š¹lÙWÓ¦øıÂûéÛéu"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "¨Uœ¾¸œ!ô6}Íg·ùñ}—ç'•@ö•*T·–Î†Õg†MQ¹9©Ş€¦"C×MH€¼ªºíl@°Dwÿ: ®Ğç‘À¦«Ï×/ô%<¶ÎNsgWVÀ‘b‡É¤/—dîŠ<Êbi˜®%Ñ+Ì€Æg¦uÌµ¬`°Äœ†ê“ƒšmSı.ã,=Ë#Á´š-ğcŠF#İıŸ $ZBşÈèÆsò²˜?ê<Í¢Ò`\—UHÑØª>ÉoKÊ“®¤Ô7í#–,şl…s$Ãi•¯ÖfÉö‚&%R6I¶‡n‡æ´|7Èß^‹Ù›N=_»ïeÅè}²<x;¶t®9Ç‡¼Gæ¡'S¦˜g)$ó‚ËÔ”£j3tAÓ˜ÀÃ™Ô–%¤Ã©»—E8´t¢M_½C››`¢k¬gdŞª»÷²¾½—eŒ<Î\fäû£9hâ8Ô¹‡¦áû-<¬’ùÂ”¸´¦w£òuÍ¾ğèÄ@-1)®¹Sü»Ù–DÒ2ûéašX-C²nM£R©Ó¿”8ğšK•‹ÌŸ4Ï~¥ë•9=@ø ¡K”"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÜyŒ%yÈ’áœ9 Ó°5¨|2ûÛT	¼7Ë+~?Îø°Â¦{C…@’Pu|Ù³KDÔ•=e.Áòò}ßî:óòDUÜ£V¶ÚgàRãM—ë*Ç1†™£=8¸V>ÛÉ% ìƒ°„*ùÉ%b›,vJ¾¡KAœÑ¾…Í|§.éWŒ‘®Uçs€L¹€,@Ì 	NÍ¾Âz§¸Õ‡Şc¬N£9i­³`y2è¯vDåTÖæ£zDD|œµa´¿‘mŠ÷6ÌÕˆ_åsÎô~‹øó¥ŞÇJ¹²éN™µâÛŸÊ%^h0Êğáš‰·E-"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "1`ª–ƒï2¾:Œl½)Cò*@5¬ãêş‰ªûw]ö‰r¨İô‘±ÅŞ¿;ëşõIµñÉƒªüèV†%c¬ñÒ b¼êœ‹¡íÕw<2“.ÄĞÇñšÁÔö”špí.í‹Š¤aŞˆB=Šu}‘lTÙ¹Û÷é¾ab›ã™0ñˆ«¾DRKƒÃÖÁ1fàœl«e2èPĞg]NÆëGéräøi¢y‡Ôú`>Ä°ÅØZÄ®1Zò@:›3évËN³àA·Û Tcj¹ƒİ\Öº¿*õŠ)¦ÖúzñÅ¥/æ+e…U Ëû,=?LŒàü4I®ìÎıdòİOŒs`Ÿ©–õÒâIË=à"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "~WB9?ì(ñjè%÷¡Á6¨¥@Âvy.–¢ùd×’[Dÿ2‘’œd%c{õ5ãA0³{óÛª‘)å(…l¶J¬$Ub#*í³¯m’|âjßâ İ“‰[Š-RFJàÆõ«F2|ãšòE"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "“â–‚6Lôuæ+]¯ì—Õ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ıšé2½¬ôÍîÜË=“ŞV=£7ŒA³?[u[™~M]/	â"Bp¦Væ¾üaRºïŸ&>?0ÇÀÏ“9Dmq’Í©âq²â#QUÿzEH>XQ]ï¥›ˆ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "³şÒÈÒß‚wlUÂˆâÎÓ¥V50=ŞÙçú,8ÒÅo}-L¼`?Ğ«üsi«€šCO×ámıE¨‚Ğ^™¿F–)²ªERüÈ%Óœ¨"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ˆQ¨±1¬>X¶?añÿÄíW½¨¸â/«0Qº/Éë´Ü´GÓ{Iò.Z‡JKg¯M2Åok"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "»„ÿ¬Óˆw`“ß,¬m§Æ¦%€y¯2s7!;ıÊïå’B‡M‹R9÷êÇ¿*ty.–¿|C´ø@¬ ì»!c¸TŒãÕ³JÜ„@¼ÇÆ8—•O~Md”ëŞãŞS›õ×dRÙ>d²ñª®Í¨riEÅbøMÈú]Q#ÂrŞ˜¦[É]ªËÓ>lÂpŠ)K*81¥¼¿Ë$ç›ä	°-İÍiÜã*~Øbô@\ƒÂ¸R –ÌHvÂTî?øAxa¥ñÖ7†7¼ÀºÆ¢²Æ@V¶^ò1<4äÍ‘#:åH£Ÿô«]ä}ŠÈ—CvùQ&±œ€ó%—³ˆ¿ÒëÕ'’ÖŠà[¯/ğ¥ 9èùç»7R 	o	X(şà?ø©äKk×ÜâaK)µ`2ş×¦ŠáùåÃE.mc±Ç&2$Lb¨á„ğ®ô”ã†òy¶tß(ŞÔü£ÖmrÕèaØ,ú0$b@ß»'lÒVqàSeÉ˜/Ò¨Iş½õ "
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "åã^DöƒûHµOåûL‘)İzaü'MœYN”è	%Õ›ò<ü•g©óÄYzÍ ç‹¸²óHZ4¶u¸ºwö^èéá†6«»‹'Â‡³«»yña‹ö¡tUÁXs2	l¢G™^½„ğ[ƒ(%ñÛäL|²IW4F+ê<Œ”|µ5ıÄìñd@õàkU"ìÑÁïıô›€Şšv…Äh|î•^oè]7ğWšíiPD•ÇÌZN+µà-·7¾\É³jXv<í½gÊU¼q°­Tñ$5ÜÌÁ"òŸô‘S•òo€öBA=«¿Ş@‹]Féb!"¿™r¿M¯wE«7c+ºÜÖ³¯Î÷¾&|Ç~ïÎG¤:õe-¹Æù7P ë&şœq´ZsQFVíŠ±C Ã×‡ŞäZ'´«Ÿ Ø•v—Gò®¾š((C”+ªÕ0²˜r¤G3†¥	[wñ`AH9ïMû.B]@®…‹ š>ü›4{ª şóí-½ÿ¯%ôü-5ïÆD<jØ™S7»4WK¹JøïKƒÕV·ˆôÓç'KÁêÚeFe›Áİ§£$qcc³PúÜc%N.@…[“­­¢p¹ïäÇ¼´YME[‰µ²xjøHGËÇ1»u~ŞÕK«¹9wµ•pFÁxÌh4£)Ãj-Ç¿€£•9UOWD{ï"¡=Ø}M³_fulÅ2á´ë¬tâ‘§»Â	Q›|ö_ÈÓäc¹#AË:;xCÖBÚŒâ¥Ÿó«’‚&ô&[ Ã µ_¾‚' +¹‚£û•Rƒ…Nf¤¿¤›lúnòœŒ®¶tùVÇ_û×x‚h+$lî#CvI€?*m’˜pÚĞµÉ¡´-”¼-G"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "÷å«é©byõ5áª&ÏÛ^Öº$Ìv*~1Qä¦2kkøò7œD-…—u¨aV!á=hóDÁJ4TÇ8ãbq×ÎÃ¡¤—æq ­“7ÁŒxâ&|{<'Â`Cš :*M³ä[SÛ|+~1´¨‘¯Z7Í8ZÆWt´Š·|Pt•ÿY$£DèÃ1ëÁ*ûÔ4¯j†hLfÆÆ—üçøªqÒJÛJ±“/|v>bºûlÛ4çÛ6}TLÛøCd/†œ_•×A^É?ğXşÑ®S"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "¼¨*àÓ¼À—Œ™5Äğö9Œš©>uñ?•©:àÃúøï~	ö±¯Ñed¶5H&ôÕÑ>%:$¤¾Ú.d;Ú9™_BN1Ú•N^*o=™ªš«Ê·b9·¦êU¯‡˜ÖvÏÕ#õ J—Ë4Îø¯% !	¼©Ù”ÀU€¢„À¿í™œ#ÂcÚ‰ "ÂD“ëWÍßI²íã—YÇUÓƒ)Æ| œ/¯µ’¢½`_~àQ{o‚Í‡Ë·—¯KÌ‹ó#Æ5%5O²Q»ùİ÷€vø]«†½097·pGÒÌ©Ô(îˆÿ”-:Š:›„:óº›ş-ıì£û¾»pİ³>Q;¬"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "+ë,½ÍÛç"¹=^ŠÔö3õÆ23<ÒÛeÜ’¹ÂŞÑÛ8mÜßs  mª«Vˆ×|¯ÖœCï£RKŠf7MfšÊlM~îh1rw@rq4µ$8¸!‹"AO‹ae¼+¿Òr;W=ÉRROò.ãŒ¬f*—Ã_tÖéÈéJåK«Ës•åîd ·$E[|±\ƒW»ãc¢I\FqZ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "­|eJ(Ì‡û2¨7í_¶"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "‘M”,×,®›naÌNÎĞÙxøèäïï‰Û[ê–xÎ¤O‚×—ÀÃ+Akm²sæŞ„£5òæ”{À·ä1Zx7˜‚¤k>ëHùî9LÀ@6Í¡9À°™A»Í§‘ÙÂ$N©¦9¡|“&›°ĞZ¯¥Š’¦"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ótº'Ä•ÆâJr L ãW1ßkª)’OQ_&{Û7Mœ#z›b€`„©-„Lad^:…úpY\^…¢k‹ƒxbGÌt]…(¢"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Òú_sY÷+M.F’©G&¯ˆ*˜–˜so”†ébÈ0”Y1¯×	Q17è›)\££°%‰ÄÍ©5»PV+wBzZ’K¶ÛŠI–Hõüˆ‚Ül™Ø©Ş²ªùéô Q4§¦A”ËÁ(Wf”YÃL)5}ø^7òr“>œ_”Ç^"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ªFPıtTßÖÁÒº5u?i7¹_5(eú›†ĞSsç˜öÖWĞ„öˆ ğ´N¢^"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ç7Á?ÈÑWc>‘Ò¢<§$%q¾¼w¾(?â}ÉEb‚µ"MĞ”|Ö‘ò”.±C|	 ÑÚ¹•çeî9/±|+¨Ü¤ÍQr"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "X"*MÌîVC>EUºH"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "&.¢©”„™beåü,hQ³ÍAÃT£áÈrÊ6u¼Hœ¬!Ÿ.—ÉùüO…ñû;VBFJù+í.ù|°C•©%`(rƒo@ÚÙ^\x¼•Ñğúxkwó¬Vñ2šÒ´S‘ö$Æİ9)½CYÈŒæ÷$Ê&ÉÏşâÁo¤Øöìß„„ZM˜Æ[/a¡ß(£÷Lüûä¦BO{ĞjŞImA åÄbò	^ùjYî¸oÿŠl\Ùx’•9?›¶©—¤´iB¤ÿÛ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "qñ\ğÀ5ŒKÌ5gâ‚{6<C„4»ê¹°§%°¢’\J`O.%/¹Ğ_± PºVjÿô-R=Õ4A‘+ç¹@W"0‡’m5ù5è%C#´OŞ#ÆƒG^ÿÌƒl¼W:{AÍ¥´½ÅrDf´KãY:FkaÊ¼ëêÃgi¿ÆG*ŞùÁCoTÍˆ[ÅåÛšá¢‡œK\Íi'®^*Z‘»1®”G®&Yä:è@A}ÜŞÃğo"ö»şpàƒ©ÄYşÔÇ‡#ö–.¼ÙˆŞe32¯ümæŒ¯ü¹ÈÌÜÓNr›ğçiXb°ƒ…w-ë}]2éùŠĞJ<JÒÊ”<›{è…bk’b+ôadŒºDöïšã,¶ûqêê7ávˆ’Ë42I^ÄˆŠq;üÚ·Qæö*V'ß8”WŸlEÌyÆ‹Ò×‹ÒzÎS U==Ü*UÖ`/cUÌĞ÷’´*A§-¿¹ÓH82êŸ"(#ªåËW¤eö/šu‹šğ,Ùôô%âzÊĞ	Î8ÿŞ‡!²¹¾ö·£‹±U­´ş`ÖpTRt¤j qÚÄ`Y¶z	;^4.È+c{¦Ïílâ‚|ËB:£”mJ‚K5+Dòã3æ†®ÃÚ‘Kåñ	ÓùLù51)U6ÌI(üˆ,¸™Ë"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÔK4İîX>"ßÄ5oû,_–ÊQ3ûêêû*†^äŠ‰y1nª^§Ë„x©9WÃ¢O¯{/){Ô­İ0oj‰§wé©dÂgÑ°˜Ívµe8 <J”>’9ÎS.UD»óe…"æû­ˆÁ6‘KÜÇ-†]£twéI	ÑÙRé<V@Ì¬|uV{‡vèŠn¨ÆgÚ3w½¾­*Í+Æ—‡Öt¤aS:0$çRo¶õÅ´">}Šm7àæÈ·¸ƒoŠdˆ‰ºŒ[bÆÃØ(§nşAÊ¨S-h$¾Îıû• Y[s¿@É6™ü©,Í/È,¿ĞqÑ)å”Pó^¹=åùüEÏ_ Sœ5ú}rdt-å°RJ0®’y¸‚¶X?~Åehn½•ŒÁç>ôñla å»~I‚å¤-WÆ{ŒtÅ¿§kU°›è:LrÕ¹­şù’q©Mçß£J±KŸ­TX¡a¶ÃŸ¯Wõ·vdı¡hÊ¡ÅÕ_ğ	V™ğ—Œ©Í"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "`@"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ª×eë%‚ôzêÒÇn²4>’”vÄÚ!DÛfEÜÄ™™FÖ7#ãÚİâ7w8ãÉ(“ö„$a|BåvHÚA`z–İÓ|*Uû­š‘n¢E\¤§şË@îHD¤*²!*ª<=™°Ç${€½oÎ”ĞÑõlv¡§è$ù[‹k¡!Wúzõ¹0{è´û´¡/òGA•#üv«î^½ê¡©j+Å,øa7ñ,L¶;ì¸ ¾°aúDWb–Xè?tl·Y"*Rû¾¡ƒTE2Vº2¬„Áò†ÑÆ6ø3ß­®Œs~]]wC£!W]]aÎ–×ãêÂİêFP¿¿£E ·©ÜÔµŞÊWM$şŸƒ^z>?ş§ôLş5„n†÷Ù;Ú«*F\hRÕ‰\ëõlW0+“X{¡Ï[DhŒ¨/³ºÇU-‹Ø·Âšp*n1çáI`eî$jCˆŠ«|SÌŒT;ì"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "åLõ}V¥ªé™ÆÿÉX.ø|ÆßYò'ññØŞüƒÁïŸ¿ş+ù[ê»‚Ô]¸œàPÃ"ÍÜqXêèä	ˆdÌXãDĞ•¶àØŞ•¹½*¯Ó H}¾íb€ÅÑ|¬Ò¾ë½P¬AïØàê¾{±b«¯Ê&TÚ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Š®äÄè_°GÑLÇ2UÓU±º6¶Z}$È†	œwUÆòsVo4‰CWß¶e,«æúHÃÅ×,÷Õ¿Ïç×uZÂM¥`ÕfWsƒD¹£Ï÷ÜIëHÚ½ÏUºzN¥^k¬Tüßaás§–Ò(«Îœœn-ĞŠz	 ìêo\C¶B˜„É²pã#£F¡Èiú–Ğ¨Pê£ô-}ÕFÇ€ÍÕÆ"ÙÔJÇ$ZP1øøy0ıò#Ø ò(±—ãGR‰"„2Ã¿*÷ÏÕ¨Óu6ß 3¯ˆê¿m‚«"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "˜–ÏNvÍDŠ-Î"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ñ× å8³…œl²A–­Z"9'(=İÙQe¯ÓœËÃ}ëĞÇhKh]­?>›]–”V®ÉÎ&HFøY]ñWvCçaõ›0àë`Z‘ïuÂÛ1¿w‡:–¸[§—àÌı<Ø*1îtU@ù…¨s—ªi:H©¶]‰‡>.ó³J½KWİ,·,ÿÔV·®A¡&\"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "‡néã;¡…Í¶ş´IäÍïÜã—»·G<$u&ÄÚüo’ùøRÄñ^!NNPï³Æqõ<I“ÓLƒ¿b7õœ‰—©U×»CR<‰¸¶ÊH5QÒK›ÙpEâåRúãôİ¥n0àÍ0¢ƒù2Gëj8]›åşÜæF"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "¾9^eùO"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "öŞ»!¥jkzbõ½?ÔIrxä±Ü!WÆVI¢¨fj'ôé»"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "{hØù3R¹yµŞù{ğRBiĞ18¢eSí8gŒzDïhô&{ŸÒWw5&®TÜ“ÎY4ú›U‡•Wa¬?0^;¥¾°EAæN)ùà©37_`­,*ËN*–àK#&ELgˆ}ƒÏÉ¾.1øeOO^íÅìöD¶yB|AÃíXV”Õ[†,œÊ‡…S´ÙÔÛJ‚ÑŒ£…Æn*…s¢"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÎUù™ÔòeÉÏÄèç„¡7šz°zâÀi¯MµQå‰í‰ÿ4Ô7”#Ab/ÕÒâ%º5ˆÒû5&Êô/_$¾-OÃ´ñH5(¢¸†2â¢ÍTL¸D<³EuÄ!»]: V«<b«KûeËæç1"Ò!…?PTtÄÙË¸›‹öëHˆSØC–Õğ‚\Ib¯UHÔ)aàˆ$¶Ô+}GDf¶7õD3™‚E6ã¾=ßË`ô¥ÒGMræÕH>ìmğöe°uUåcoá¯°}MµEsa¾§“Èø]—´cq´­·s.Š8a,•ZQÇØüÔùò8¢õ}Ô€œG‡ĞmµOyÇQÌ;ğóW¶4!¹¸KŸÿõàÃsœë	ìª>7lq¥éæ«v÷ÉZ1ßíû¯[×ë´ûZ••Èî+bÚ®EÉ“¢®Gd¥\Gn%øyndI’ÁéÊØeWÇ.ÃÂí. ÈPZµV²Nã/œ¦:8	[ãqpåÕ­”èüZ¡YôxôğpÍ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Y,½æº‚.Ü|°çå¯ªÛ¸E=tv"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "DÙ¿rUçL»ğ)ÂYÕw\^ò¹A(a/QóÁ®lj8æ´ôéÿÃ.ÜÃw6RíSµOü*Tf>ò“KíóÅø¡=±/Ä_İ±fğËÓªÿWÂïDmßªÀvß+¤ü¹ÛMİü¾òÁëÒ¶î‡IâWÓúóXJ,#ú{à~Ouo‘DPúš›‹%•­mzn`‰'Ò®èñYRÀ±»²Â¡‰‘tÊDw¡9©ŒËU·ÜşlG›áã{lY–¡\Ã"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: ""É|]nòWó†ã_ªq1Xnñ'“åËà”îpÄ¢’†ƒË¨šåpÜ<’Æò—šhÍˆâ'rİU*Ä6a[A‘öxãØ¬Û2]Èè¤3Zéj@Ë¦=Ó;ôù@è@8£"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "µÚÍ~/0°óÉp¢æE“Å"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "n ğˆm˜.?	JuiYz3mà§0¢ä¤W÷#A@<k®JaËwûQeéş½CpÆ‰Y¥â—’xĞË©Ë0¤èe³¶™+6ñ×i¿bçê‰‰ƒĞÆ¶fó•4« İûxÍCÌğ”-QŠY@Ëq3¬CÄ»œ|ö4J¤ƒÛ*3ıÀIÑ£ˆ—ø°¢<yTü±©ñÛräšÔå¿‡<Ì"¿i{â5oà"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÓÊ2ÚDÑ:&KÁ¸ÉÂİë\¥§Ô1‰šFÄ•fuËU¾^Á„BºPçr[|ÌM\ ¿é]«ŞÅ”²U_^?"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: ""
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Œ&Bem/ƒ¿ÑÂòF=¡¿¾hbİŸØ–ä¤ó6ÄWÀL÷«PxR® R­ªsé³^U“&"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "º*§±·`~5_´¹ƒº‰õBXÆmÁá„µÔ’Iå¨l”]æ‘d\˜Pe	ítÉO¬Ö‚HóÆ«°yS1ûô9V1Åa!|È´\=1+ËR¥©ş¯²3úÈ§¦tCGÍÏ˜Sa›©œˆ›Ô©ó@¸‰9dê+¨Şh)ÅVdäÊœ§1ãWI‹óT«‰AGÕ@¬UD¥Êì|Œ.,óf—8®Üì(“ÃE¦qL¸B	1†±MÌTÂç­míhJVşD¸H”ĞÑ£F1z|@+áVb>N‘bf[@|Ç$­¬ã‰†Ş„»ù×ü3½Grå†BgÁ$]—óÎ:/|[2ÇÖ2EÇ–Ş“3!‘Ob‹ÙHõeWb1'£±ªø“&Ì}ıØ{)AÚj?Ã/y¬y®ÏùÆ§cì[Áƒ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Ö¨¬½BT f2”îºyP¦ÚÔæ³~µ"ÊÛˆÍ73Ç7ñ¨Í0=*ãAÕN‰Ê\3Ü×y$ÏBzğ”ÿ°I¿»ƒˆù™vÛ¬ÄkÉ.E4ŞZ»ºô„­š·C˜Q½*à{íV! å³?¸À‚ôá ğ¶Ğ¡ÊÆpó2U}:Fi§V½mò&´„íPa“aanà~nKx¯r^Ö—"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "":#Uk`~~ˆÈ=Z'QbÂºF‰l7·… n‹?ä£ûBg"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "t¯qˆ/´u¡–t7Ğhcû—I;’xŒ7F£¼y;4iÇê•"KCó²•;£\fš«p¡ÉĞÀX­ZyQOÏ±^ìˆ)İßˆM'™…>ÈAKcHõçàÀáª¥'àƒ¼Â…àÄ„€¨U)RÆo3§µÍ„"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "'a‰ÃÄ¿ÒZd©N\k®`£De„× §	‚>E8D¤D °é5º®$”p)ãõl¥+I°.ÊXIãZéGIÂÉğGƒ“hÃéòY[ÍÔR¼u®¼¶NØæ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "‰Åhpíå÷Yµ5+ºÇ‚æ2³™…Ò(²ƒœ¡)¨V0¯sX £XÂÓş¢·B¤âíë°eà«Ó!O6£¾A"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÂŸÒÔJ˜†úX/âó1ÁryöæYÑAî¯—Íİ¿AI5„vEp£µóèlÌ…±¾ëú#6í”’ÿ›{#ªfõÙKNë‰èİI(;ñÛÖ»‹ëg.çñ-H}dÕõ²"¶·1|Mæı®«ÁH¡„@¢uxél>“zr6”OÓOˆm¨„2ºiÀ6ar­TMÙc)§XW‚’Fe‹Ké‰gMù}Ë&7À_ÄÂgÄ®’Sô	åæ!9EÈ)WĞ|k—peV:R9AlåÁ'¥é%Œä”3`[•zÂ6çE9²~A"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÖÇ£%oüY¸5¬%OX7-Ö,İ8/¸6ú%›Lô&D"ª cŒ˜­½ênú0ÂuZ:)P•Nògê}£{é3)|ÄNF˜®Ä¢lóÃ4K:1ËØı]cÌy±#}dßCCJ§P/µ^¤ŸÜ–ş–êF¥ãN•~¶›´¬f"¤Ëz7£®5~Th‚öï1ÂÉmîp&` šE²š‰Iƒ¯Íã1¸Óµ‰Y¾•µÖÒóxÎmj2n!û‚$²‹'"5£ŒY=:ÿŠü=AùeK£UjÍ@ö!±ğı2ƒóH¡æøØK"æDdY£ /[Ò™%C1])ûYbıèhÕ$]c•1ĞÖL²ë-2œ• gŠ™½wÆ³"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "£-­2·,•5µ‰ï"ÔÅc¦ÜMÇ¬š†}„d|Âb,ò¡RçŠèœ;iµ®ÅÌ…Z®·½iÉb’eÈtí0c¿ˆÌƒ¤ÀÇ¹˜v¥¸*KæEÜËó‚Àëˆ›c¥kiÓ‘”¹ËÕò%[p?×oş´ÔU….JåÉ©TyıÊ–2ô„ÁÀ™Ò/Å«”ôJ'Ïçğ ÏÃ0\1ñgåKIÍn‰6ƒq¬½ß£Î3\ATÔODı3şÍT”'Ú–^i¢ª½X~ËY.Ñ+—Èr¬ÑÕ’<®ùİpøkTbB©¥UÑ9ûzñ4›eHş‰‹õ•ê!+p9oUõ|‹‘Œ½:s&ƒ7}|åu+s*®r–ŒOzŸgş<¶E“=Â5ÎÖŞİúÚFi )8(*òÈŒT~2œ~N_‘*"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ø™S9¯€ßĞ¤²Ñ˜‘¾*	ó·¿´üºJ5½ĞÃÄ;$ô¬‚Ú$iÙIÿºM(U…m<ü”ó÷<|Äæ•sÍ’…›«[ÚGbGXñd¿š½¤]éÿgÆ™2rÊ‰aN’²c*'	N¹ ëôÄë”Ëymø6IF«Ó2:ğ	ÏFbšĞş|Æ{“©ıYSÇÁK£PŒÔ=#¬àØ*N;á‚òe"œğtBŒcƒ“ÿRkj¿HûU(ÑèåfÄ(fÌÍ^EQ1‘•Ò•úRZçZsˆïa½"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "œ"y¸3à²‡5Î:)|+ò¾l¤Ñ¸dñ|èõK÷ømDt1íuµdøåå03 µõQØãš‹æQH–20X«c9fçÄÒàüşşûçØŠ¥~¶e»Ÿ3†sºv^’úã{Øúz\iç,	Ú4‰-ÜG:GDFxÛ1ÿ†ó9pÑ…aAíj{œË‰û¶îõLo¼éa“«Ù»$VœÔ}½Ï”P¶¥+ïĞWV·Æ?}¾­5¦Ö,[k1"3KÖMQ"Õibsà;q¼è«ÿD¾éß?“\š¡e[ëg­öïÀVø:4üÊ(,¯û(ìÉÍU²ˆL…à›mÅ„dè¢Š®¹€*­	J{%ìFĞa+Ú%©)íusÓ¾Ş;šCÅö¦lÑ¦ØÙŒpêgMû„‹Yâlö‹ A·cmHqBny‘ÿˆ¾õ™ÊÔÛè8õv¼ŒLÚûúÇ¯"ÆLµ*Òwñ%åj­"šŸ?ª|bv_|ÉÈZ—Ÿ=½,sÚ³sè»ü¤¸´R{‹»—+á{s‡7gr_£ˆ›!Æ´).]5`H{×èá’‹7œ}8Ëxˆùî¯ñz¦´ûõ€:cÀ6vŸÉ¶è%öqºy¦;úÆ¢Oh3<3Ìqêq¶]«=Ú¬nES¶ &R[–C*Ê=èœ»ùJd9Ì½?lF¥l¼jİ¦Œò-Ïûµl ‚¨SslPOQaG˜¦ Ñ=R§jÿAMD"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "—µ[Tohnœï9	£IÂ-I#RAÿ¾Ko5Ø·ÚtÈu{`ôxã!0³…×Ÿ.§È×$SŞaİ¾¨çSø‚G•'¡‘ùuûÊu"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÍUƒßIğÅCO–[œ:”[Š¯»ÅŒ†ˆ­Ñà’&şCê¬ô”ï(Ú6Ó4Í²Jÿv{2ô¥Ğœuˆó®·g„*¤N²µgª¨bçáwç3e‚+óHÒBßdü_+~a+u‡—Jˆ ©;Eå»÷æ)¨}Ü.ºQ[&\CM‡Ï»†Õ'J³)!Îh²·F×|Ú!Ş†¬ÙˆW‰Éb÷g˜w/‘–24$?;„õ†JY>ş]_DÛ¸^òµóKÊÚŸòæL„Ç¸S§'%†¡˜Íé>ïIÀ@¦+ğù=:Ï\¦àÖŸ5y3AŸC‹÷¨(¯%d‚ôØ$H·íÁw œßµG™œó~3JPrÇ6˜0‘'æ—Š×©p*óÒrp¢@½ÇåærEInDìe–<­ß:D¿!³  èéø~ÜƒÇáÀ¦«"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "–I‹©ğ¨Ã"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÆÜÂ~Èiµ^‚³çY¸Â :Ş¡H]Éî¥Š/¯s[ë€}ÎK&™D˜¸Ë0‘/Ñ4uWTC½Á«êmPh¦ËÅ>Ûêu\º-VØİuŒ{ˆMÀ¤Ó+ëÁ`–Èµòb¯-Êò=\?q¡ˆx„¿_3Î÷E¯@÷a™¸AÛS£©ìºëfí@j9]<¿¯¹Ãå‡k[0ª²|çÒ.O3¼ûÒrµ/-÷‰üÌ"ÇxÁ„éYpŞ?,­ñ¡È;;æc‚W|Iù¨µuSW¼99òŒœ1®rlu³˜LB® ÇÅ4½›C©qBƒ—¾¿~´ÑÂLğ<iØß"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "0÷kŠôú“º "
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "-Õ|Ç=Ø AÓ!f_ñh{½lİTß¦OÑ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "wİôqB²‚³Â@c´Éëå3HjìGš¼ì7K«£¥êşJ„˜¹ª¤*;Xñ 9»±¶Ø­l{ÒÊÖH¹Ğ£»±xÅmÕr‚àDiÒ;Ñó1A°ºÜõoÁ©˜kgËş|ˆo¶©`Ÿİ?§ˆœh Irƒhİï°¾á¥XAT=ƒo¡zz—ÊÎË\«Qµöék8É&éŸVÆx¯K%åMæÈÏ4ŠÈBfÖâ+Xâ¶üQfÌpëÁ'Á}²˜#AØ?»"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "øÃñ'•#¸Åüb¢ËG[¤Úê=†>æ$6¬)õ¡tâ¥õ±AÓpWÀ[‡Íéæ"sdÚ{©êª±GÖœ1]Ø{uo‰ªº;>H1ÿ”Ñğ+»t[“nX9kÒ%XÍ§’üú÷‰‘#yƒñu6*OØ!4ÙG10_G>@:’ª«¯ˆ±}hÁ­Ä=Çn!+ò‚w‚Ò&b‰Ö4ïc„®8`â³¤u-*r)«"A:ÇdÆ6(EÇø «2İûóßöKLi1²w©³†Gs	Ø‹øëh)U`yˆw_+wğéò¤ØÁ?PSÔ¿å¯PüL—Š ¦` b{~U6ÖÈøËZmö¨Õ–ÁYé”2¦Ö:?Ñ™DsÕ(+PEÅÚZ"Z†TKr^Y°äAD€¡»ó7¡Òß'ğ‚‡¯ˆ×*DÍXÂDq;{ ¸]‚ÖMšVƒ&c¬ø/D\İ¡´äLÎ¶*¯g’~ÜÍyvüKZ–§ø:‹†­§îW²9—§•Ìh’ğUïd;ğÂ¹F‘2ü”*üù«×!èNñˆüÕ.!›u»ÅtÚ„ª¾ıºyC°?HI$­;Ì°Š8×Ú¤²ÌÃ,OzÉëı5Ò„Ğ„ÑeSÇ»ãZ¥v”r©Cß?gÁ*3oıJ1²ÉÎ¡îdû{+[JırÉ.âN!¤º*®'Tº2¬"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "IâOíÑ†´é:LÌD,òï´İNâÿ?ÚÁçèÜ£D Yèâ_	¥êK¢ÙI,¬*³ôú~»¾ÈcH“âÏĞ¯[Bæ7G¾şÊ²d¯‹×øÓ·bÆ?›}›Ónd“âÿÂŠñ¾xUóÛ²ØaÁ×ñ¾Ì€Ğ}$Ñ9±=&=é‰yƒqğ™ñ¾>Æ«%Ìù#¹Ó¶òé ùşÁHĞ|­b/œZÌÄ-76äµ|°|Îú°|¼5½(/¡Rü"tÉô.ßŠpÊ¯‚â½"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "÷•ÚÇ†”Û*P4­%}åTån'%@fvë$¹¤ûÅÌY-:œ	s´ú'0k¡µİôü¹ºã+´âQ¾aòıØ¦ŒM2îh›8Ü6áÉ]Ä•ªÚ}“Sıª÷8èinUŒ´VDÃº"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "CÄÕìæp%rÜQ˜²Tê*åÓôRÀN÷#»ñ#o…ğµñl^ZªÇ¶öô&jòÑ äHí½µ3­!Û™¡“—'gÏSÃwĞƒa ;ŒÌ–„®9|¿Ùúí›LDıÚ:–­›På:ÜéÂnÂ¹ÿô2iÿV{:ı³[ÚÕNı_§¼¨¤B.ı·Óó+¨s}ĞÈÅ¦Ññ¦ÄŒBê»Ö½´îƒ1x­b›ligÌòsz•9éq*†0¯“î<¼sÿI…¢ù›²³ëSbLUse‚vwJ ¿6¥¸4"Rc*\Ø×é¶)h9-óñtål©ÿ•ğÂÚbR8'?£Ôªâ8a°|G„"y»Ä+«Ïô‰—R&æşP«vÍA·ÒĞëcvÊLRzFÜ‚¨SĞö‹“HG—1	Óñ2mú¶¤RÖ{Ó¬b&öë¢ÙŠ+o¶Ö[y¼XBÆ”–²<Ü±Á:èšƒÄ4ñ‡‚ÓÒ$¶<Càâÿ7RÀÓ LNœS/Š›^~[æ†®FÊ,	¸„ª‘¾¾´NzdâVrZU=¿¿"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "S$ÁÊìs–ÕNƒmÅN>;vMg)b#¹fh$VÒ4’Îˆª¥¬¸ÓT-a»Ì"‚‰Ö…Ô‚ã^TZª	W™JEB~Ã}‰¬N{÷ÌŸÑãq~XçkŸCc@W.È[w<á0Û·UÜM*4_+zU3JÃ? Dî¤ÊäD`Æƒœ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÅM¬ø>"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "»{ã'áNƒÃ#g\bîäh‘¸N|NI(O"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "l‡&`Ùñz×ÙL«šY³ÓĞÍ ôy(²jNÈÜ'¢ıäy„æÁ©F'áB“%<zÕÚ^r@„àdí„N¡Vûãîr–¯8#(Å™ÛŠÁù}ä´V‚aç™ám’¨lIÉç¨ætñ€*„ëæx”ëY-MÌĞÜŸ•*Êƒíw|ÖÊ6L¯Zú¹MøıõÊ‡F¬é3Ÿ&–~MYË¾R$ZÕDä	ÈKV?}€¸*~‚™îk‘)3{s~>2e~3v©òMPó/CíæüóÅÉ«µHB}Ù¸v{ñFVvE)ÒZ¨K&’EÇ6!`*àÍ¶fLˆó¹«Ñ(€mAO´(¡×›ˆæh¯tQ¡ÿÉW6_²)QóšäpvÊÉ´l9h$l²\ÇDŠ²½—À€--5åãt®ñ—]‚ñÜ©,ĞÔM¾6`6Ó˜˜Äò'¥Jíáª@“#×ßÒ%y¨”¹Å½¨ãÃÌÍô·ŠAÑ´ĞºQÜ€r‘"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "KÆŸŠ­‰2"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "%:–WŒmĞ|(Ûƒ^®Íšˆu{…·ÏxB‡ä¤AÌª™ÚQqSÓ|Ö Œƒ`ì&òPÀ‚0V7}aÅgiZqwHJ`ß°¦°¡FTqWÅİ ³şfLàZD"¹3‡xô*y7B>¤r!ií¥İtòóéÒ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "×fM—N½¬)£°»äCCLTêŞ¬öqÑšåö;\ßæo^Ê&³¢å¾°9Ë,İñä2&Ùªª†İ¦×¥Mî)÷\ó`æ^ãåQèábP¨Cl[XõÉÓ?;³¢ggÀÉàl¨ØŸ?ÎtBÆŠQLS<{vF.ºİİ0ïn÷³Q»"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "$udPƒk?ÕL¹pó¼ÄWì• Ä;9:<‘_­o‚Ù<ÙÆ¦ÍòjMŠ~±rl[ÌKmcQU%Xdàª.ò„Qš¯¼9ñÀñ²eØJ¤I!Ñ÷Ø‚‹ghçø/³&ƒÿ]´Å­î#èPõê<îâÈ'M"¬øô‹yËËéÃ¥Ş‰ÿ·ßÍZ›îèdñˆ ~ÿÂûrXCÎ¨›LĞËø#h,Lˆ0Œ]ìƒ	ËÇ}¶]-~B¨Ã‡é»EãOJĞ.ˆPÓ” æñõ¼A/óu¯¶ìSò¸twÛ5€*SÔnõ¾irà>[E<CH…Á¦uí&ôKæ35)áY¸Ãg„/	aå-o¦f¤öç1‚Ê‚yY Ø÷Élşª•Ñ¹y:ş,æ™]kÂşPªb‡¢D2ó¿…«»–Ü4ñ6&ˆ®òOØõÙÚ6¾"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Q(3®Õ¢ù	{"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "zX­EˆJVî có&œC(ãÌ=B™»[ıñlîå›[6î]_Ç+´wÓ8£êåLÊGµØÉıäº¾jêP#{3?ãR¬e÷ˆ¢EèâáÕ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "i^â†"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÁŸ#ÉÌKÀ“JYÑŸ¿H%sƒ|+ã³“Ñ&&¸la‡é3oM±¦g1“‚Zœ›Àü¡g"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "óyñç:ğà½Ó"7¬Ó¹"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "PÅ?I%;ñ›¾£¡…PÒŠP…\Ù¡"Šœ,vÔ”ùÎ¢z@‹lò!sGº1¦6Vi_¤&–L-‘â˜_²ã&5;yE“	?y-ûNGşj‹œ¦´˜..¤¢‚ázuzYÇ¼Ôlq0ªÁ´å5º_T¿ª	+3óÆ“„ùÌ‹Zòú"%L#Óô„ªo~”Œ7³xz˜&—ŒŞÃTË˜(ªÙLù€\@‰ˆ#,hJ]Éõ~w,yAÛˆøıãûO4$Z¦$µ€ò‡Å¥æÇÿ€+š#p@njen¡_Ì˜Á‰ºG»êñX†¸…íşø€,ª£éu_óS¶¿ÒŠ+—²VÆBw½”2îˆÈ[Ğ®tY¹¾ä8´„"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "å¨U7¡‡«XË(º°d1'ïè'Zjí¬ª*ü^ë3¹	…Œ²	áöğÄGî³zb",Û†òÙ©ÇŠ¦8•p|{&ã ._h“ÜÓ^¯°_ß·®fì×+˜ôÊLòGºE~¶×üëÁj[ÙŠ=(oF›%Ï¤¥5t¬| g‘ûEtÒ êıy´´ñ™Õ-ØuË53e iNÇñYD6&KïÒàIÏ¶ˆÌİjyÒOÈ™/b^z,uõuèxÓpe3d"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "JôªyÙØ{Ÿ-8vêÙ©Ÿ àT›æZŒ¬š­õÄøJ¶f4Ø‹”•Á;‘¯Á)i×ğŠŞOˆ÷`›˜èx[9OV ‰PÔ©ù «QñÂHı²ìxKTI4˜½N“]PŠoh¶¢ŠCß"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Zš4íšø\îLóÂ¼>Ë¤c?œêÀ`FÆ‚eŒ„ï@±¦< ãÒâMú“S­OíĞÕG2õÚü{*o˜jí0¶–ğ{éWÙk¤#\¾²³`±o¦œÌFì}0­[Áív®"%Úú0[S0·;‰m«$XSA¶qÊ2·K{#T&†\ÅÀìÒj%œ®*¹ş¤ó¯»ö˜É‘\h (ı¬¨Z$Rê%×‚ğ›U[úáV²!H<ÜgA&EèĞuİ­´«¤_n­ÿ—<"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "d‰qs§àÚª‹¹˜ØÏ@YÜ†&5.f&_Çj¹Èh±Ö8']34æG[kØöÙ<U‹<,iL C³!âgrÂæj˜¾¼TD;&<¥íHhÃÓÔ›Şº˜ìj¨‹=âº*KÅëb*Ó¹»ÛŒk½{¡Œ{.Q½šÌLK¨ÌMå"uÅ°en½ËMş¦YÂóåä3ÉêkA¾ú|v>~µşe½vRù.#óSëV‹CÒîy"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "’ƒIïÉXĞUŞ÷ÖÄ3âì*t}ÔˆS¨›œ Oa@‘vufCPíŒi¶ìv|s>MãÂ¨JÜC;’Y$âÓ•ª}Ò	²º—HW…2f+É­“æ‘NVFâ©ŞºñÆÓ:	˜75TfGÅíNî@óc6ÏÍ «ô8\_òçv@R!×-^ˆ¦ÜM*œ¤ñ)è%æóGNOBN¤’/ŠXĞ<?¿·‹%ŸíåELÎ:Wãş•¿Æÿ`‘‡9±TZK€ÖÎã:`¼%ä"Ñ,r 8l–ó£«6œFú’¥sÊ9+ ÉìE{Í‚aEmn¹ºe”µ¦eöÃPìL¯êê"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "óİuW0§(G]ukÂ˜%A‹¯n‹8Ú%ÿüõë×Øk7h+à	ŸïSÛÙx•ù‰+ˆR~ªâ&8Üí`Û¼ÆÙş›È4¼©”n“ı¡btõE‘”s÷5Iİ!ê5ATMÆ—_Ä]óJ.`“õ]“E‡•Æ¼â'æ1“\Ñ@'Š5@ô@6/f²âò”­À²[u	çŠº<#.mk@£$ÿ¹PyØâ2QÎÜ¥si*4š'g°B¤³šUzdW'lšb4¿”)_‚ÍâHT(B›™tƒa5_Ñ”ÖƒÑÎŠÊ^WÜŒŸB]¹º'Cüs"|„¯Ç®»üó %\ûzé!(€’ù¸"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "™PÖoØô•¬.ÜÊ²¥¡D©T\]SO›Pz3"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "T ]YÚ´ƒAõ:ƒ¶Uq—sã¾6jÕ¨Yì¥~à3¼Gœ`éZÌ0LTuxâiÂDm5ƒ¾‘X²©şJ¹c£%\¡r=ÕDŒ†6a+ìş(ÿÍæ{Â1ûKá{â‚ÓTIütÓ¸3`®g\L®D\¯:@ÁóÕÚÂ’±=yÓ‹}fsdM/à»!±€¯4nFÓ±xš“[wˆÿ6–­xİ~ìşX-6ïÂNM ¢RÁšÍ=”o¿S$>è›êyÑ³–ÉÈ-·ô&<İ¼¥éN™>à®æü|¨ÄØ¯È‡îÊ†h‡¤¨wğ1TŞ4wF¾"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÌÄ¼(oI9˜ÙˆÍÖa(vñeYóçÓ½\béÓ=/	Îä‰¼Ÿÿ3nŠ”CCRş#t¢qe"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "¼w¾F j"›ÕÒ-¢ÚñÀ6Í¤Ú³"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "íiã¿Ø¥vÙÕPª·fJ¯i?‘l`ÛbG‚Qœ¡Ù&t©Ù¿+î~K;óÖ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "„Qd¡o»úÍ@öÁ+mTğM—”o€½Æp‰ˆgW_ğ`ã_‚kŠü3Içu;~^&‰šœ>g›¡wJÍzCïˆ	E›Z‡„›½$ƒ¤%0{£rq–Á8[ÕµºFˆ×"FÚ¶¬Œ}!‚7¯õy03rœòé{°^Kãlúà’Ûc^{bŞQS#[ÃCI²á‘¡¹YsŞ—²ÖÏüŞzc\ê×ıø>ääx`Œ©S[o1*37+ú[1Ùfí¸Q¦^/"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "J…Ò^å–HÖ½úÔ]yXîoï@ªPï@ˆ1—õm·ò7`üà_ÑØL@1ÿÛ_¼Årë$DÛ_7¦ù|«ÿ\ö;—I×ßWM„¨·iI>?eV—bTKÃ·©ä3òI%R¡–‰©[ŒLJÙîµ„š¸j{èü›£LD§9ğZ¹ŸÍŠYAŒJÚD·«!oV¼z˜G\ÎŸr‡­C±u6dßõÆ;%D¸À+òòø?`CíLz@òÚÉ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ëÔg}šêâ¶ÄÑæÙ7áÓ]‘\uEêµ’½÷ñ‰Úå›Ø71;!´É¨BÇS\¾*¨{’2ÈíI•eÿuÆ¡õ®O†¡şC%>èƒ¯xÕc+aÆM´BÕ¢TíÔ=ş‘Î¥ûğ†Nk˜ûÎØê$/¹4Zj-ITÇûBéşuàµõuææ¡Ëäğ±şótr-SJDUÊ7K^¾Øê«„Vù[Q%©U"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "•ƒ ‚ø_u–ä7œ©:“ş‹I±ƒ«êìiùÎÍÇ»Ú—XJ±{iñÊRgbÿ3ï– ”ş·9—.À?æ4®µ”Ô<¿ ™rê±Åp¤Gíñ¶l¥ò÷pT7ı€íÓùNöæ®Aˆ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "1Ò¢é+ÅîF‚^HbóÄ²M‘ØMbB;iT5©g+çÁpGê›sì	QwÓD%·Zäˆ›€›QfĞÊJØ0Ë¯™,\*í¬³$jt¾bƒ›2'½IÕ&§_·øpZê¶œñ?Ğ‹$£šÁ0µU4ÏUbîIöSñîl&½iiP`A‡æq!Ø¯†\ÒB·$åa‚ ÉñÕPzë¢›?¨`rØråØ8ÒÆ	}Ä¤Şë¸)ÌvİŠF“<"ãèÔnD¢L"—„Ìn„v-IeSÒ«Èà*2eÈ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ñŞ'õÑå•“YZXuyR¼Zl°E°Óù	í±BQ+&¾=]'¤òØ–sÀŞI<bÃær(u@6¬H-(Ø*ZØhR`ÛÄ--6°Ê%òUÁVWa‚FWB]iElÃySzşÁ¾Ï¡[‡WEéüPë&ôy1fc%ç›>ğÒÊêl`<åL¸ˆ•8b¹1FßS´Õ3ÁbÂoMo³ÙõÍá41‘Õ”ãóU(ğ.tê<İ¨#­‰ ½QG“go¼Eâ¹Íw¬%è­WäÊpW¦æÙ×DkTŒ»Êµùƒ=ˆš)i+41û¨+>|#¿·š(¤6”)Tı—@m³-~¢"ÆŞ˜	ş{\;ÊÆÀ°p6àCyKlŸ¨™K×ßÂî“#6»1Ã±)´5Œä4®étéjl'İS1Éœ§å!Æ¾ßš å©õ¬UÇoK.2ipWL„SS’È>ÓÎÚFá{¯Ä‰à±º%R·`D–İÇÓÀ—Ë,1ÿX1´T•5ÕpO+­Í'²úv"4+×§Ÿ&è BUß0ŸJ¤Ÿñ¡ĞÀ?c}¥µ8¿ViO2—ñÈ’ÍƒzQ¨O–ñçÿ€ÛàÁ‚İ*tX…¡jvŞP\·Ì°{õ©¡ãûic<™áıšñÎzŸ¹¢©ac¢&u]2n¦¶®ØHÍfÎ5]lDXºCHà3ì×LAË€Ã‚İ%²™q?¾’4Ë7¶Ò/ZqîË'j6#]µšQğ\R·Š‡çyaI3†*È_åñø²¿Ëæª¨&(S7¡ñy{İ„àŒ°î‰¨ã­ICÁÅ˜Ã¨Jãµ^bE†âè*U3Dó¹pê\ü•‚ù>òõBšÜØÍ­$ö"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "+ôç{w™ÀÁŞ½Y£FWûÉdG“øÃÉü•kúÍŸ?Äòz¸RÈÙ}ûmA›Ü¸ßöÏ÷¶PÛÅt„SØBš%È_©*8qXó3ø’³úbÄ ;»ÍØî®(Ğz‚Ù“,Nq¶ÓÄ3ó¾6•›pƒ<M€fÊ•¢Ã…ûV?€V“ıCR¢&k‚5uåoÏWõcOÖ?„upğì`Å¿ŠÕÚüôçªØug™È«xÙn#fP^™ZBáN ºÊ		ÚİÄH‘Ú¸›÷÷ÃW¥§Ğ¤«*C¥úãèÕ‘v	› wÅ%~ÿñû{\TI»S”ïÜÆ¡ùlü¯ÇjãîÓ±~ÊZñoïõğ>{ı3ğg·Têá–‹U¡@Î•‹¿¹{ª·a«—V™Wg8·Bñ4Hv›¹t}æ]?ÓÿNWÇ\ØíšDğŸ¡"N}"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "å¹Æâ²[áRp—l•U(&fDgû‘sØ®y(hòdüA¬†¬MÿsFèâİS°ÎozWlÁó×êÇMÊG÷GÕHzç½¦@¦êTÛòÁ‹·à!dRK•²°í€Š—?èìÙÑ{‡J¡ã»–ÅnÓ~äÆÁ:gJ‚.ŞZ½…Øƒa‡İxs…©_ëà]¨Şhö¡Ç(¤WïøÆ¾Aş"YÊ”1®áğ{ËÍM"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "”ØXÙÿâ-“ÆØ>yÑôˆ°	-ş¾ ,Q„±µœ	z†;(éĞXÃÍ›ÑÜˆFU‚œ¾É"ı-º}©‹ÍN<&#ûFÜiÉ´OÕ.’*ës%>¨œ1Ô3•‰ª™ÈÖL¯oo—ÒTA4¹p»~ˆ‚cİrÃæt-âıÛ—¶Ù½~åDm¨¥i_ÇfŒ®ìdPZ€÷MŠ€ÿ­q._j] ¤)õünïÕã*ÜàLJµ®‚™Käªÿ0%ÈXs7-ÈC–9äHkÕÉíAô€âe!ô6ïÌw	¡—¨êœHÖzb0éÈó¶‰é+R5¼Ës4Ä(Äæ1Ò@g´«,KÄÈi×3I à0b"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "[­Ø.Ù%fAö¦àÄÚ[ëÁİèKæ¦B>X]@¥ÁÇXÜ*Â·Uú…O”Ó¥œn’&u¡úöñ°ş‡"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "j*Éœïô"=˜‰Š.bÖV!}£–={É²7öÕ·ñ(tH7úN˜îw¡UF4å¼OçØÌ‰Qö†Rç"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "l"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "M4[ÿZx»ä¥„Õ_üİC.µ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "×"ş=¯Ô™4Š±>ß@ŒnekSi½)Ñç>|f!&|¶¹óøø.2K¸uİ®}]zyfï7S”¥Z¦ÂŒ2¡4 &>n1OH7%…Kû¬¹Ÿİû¸MîK,!5Ë¤f ‹ÆVÓå©Æ=^ÿ'òjp‰¤PåW ¢Ìõ½Í¢¬3ÔŞıÁ]…¦ãZ·qõ/l¬Uğ8Šœ¥©ì¸QT¶¼ÊÖÒè0@¥´ÔQ*H¦ Q©.A`ª§â¬d>„°èDİ¼)Iz‚[Ê'*ş¦äñ’XW¹°„.1Şïë´,?z„í_,vyútmMƒ ËÄ Äµ¸QZVÌ¾]å¿A¥õ*A"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "iw2“ŸïÍ:#ã×y³P ¤1Uyñ†/·aùáË"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Éš:»¥öÜrª9XSÍHrú¡"dXN¥š#ê&Ü¥€?]ªÔ,¦Ñ "y=W¸<ÅaÕ¡6µŒ™z¤3Yñ¡4^¶{Ë£Qµí«¸ßVyú e0E<öu{>t¿Ifıµh!Fš›Ô··ñ­¯3ªû»dn[¦±-ƒ’Şêª'È.Gdv	ÒôŠòæÎQeÂqÃ‡1ÌŒÊ£­,¨·yÆ¾íçV}Ë”Vnv¾´ÁöíştÓ{cÁ«6iÄ½+]äz¶¯}ŠV³/G2ÎĞb¶"Óèº‹Ã[ˆpŞGÊÓVËvåuEƒ0Èï)¯µš ÑÏÈ3Ò±Ñ~ªJG~VBBQhTyğRôÔAå±R{Ø–ïŞ†‚‘c`€–<v‚’t‘($"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ãÉ¸óc²ş(6YÀY†éÉôÆ4»TiBAñ©kğAçd;.uPwİ¥\‹­zF`ıEİ¦jÖñ|‘Umğ¦Np³}ÏÖè?,í6]Ø¸\-»Å+D²}ßµ>!dÍ°{Mü6ˆH'fRbYÀå²"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "B† Û€“äv+¶	§ë33ÃÌc{Y8š«TTÚ»íyVx%Ê?"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "+®I6~Ø”1eñqÆ_I µ»íQ&ÛïÇ·?½ôqµì!%€4[qŠÛz‹ÚërÌ™£ow‡orî¬ûÌáéÏUÜ›d3QzeUÄ°¹úW .2	ødiÓ?YJïd–hŸH¾Î•}¦4GF9XM—Q%ü´?–s1(â¤Ğï_¨Èš’3è/şôÑVi|Ô[ò:ÔÓij'fË¯Fİô«Ì¬chñÿúfÇ•Àôf‰`á˜ú€êÚœ¹ó*f‰°•ÅDÿœäjı ¶JåËà¶ôÀU\ñï'Á†TÙWôìƒ…„ÊÈé2´¼Ş–c/•Mç=¬åÓFğ$û\Å’eiÆ‰_•aŸ3ˆÍİïş"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Wsb5£Ü~u¡H)“­6¬a¨¬ñ(ñèû,_ù BApkâŸİŒİË%ª$÷hÅœ•_+Öô mÚ…1MD¯şPiClµ4#gXs”(d„=¨[º”uõ0A²/ÖmÛIãÃ=7;Aóğ>M¡ë/¸ ü¦:£ÙªÂè'Ü¬ßË0k_V¬7}øÚ²D-jòªIş=ßK´Um?NŒéç÷ëª²¤”£­œXÊÄ?)Æu}åÍ5.»¯§–'óìü_ŞÙZöuÆCuòZ=Ê•Yö\’‡Ğµ…¤±1l6­/ÄG¬[óœ‘Ü¦b}ó§ïIS	™Öu\“;ÑDÌŠ6,PÔe”H/ÕhÍ¶*µÿH³ìºçØ'`~GÛc"‹ññÉø"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "şÕÄ¤òs¤)º¯<Uç¼«,p²¹QotjÉíõ-´aD×QCg#·Gm¡2ÿŞCÒ1?LÏ+:VlÎ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "üùNğ Å=Î¤•p—æßßSUiÔÎ_mnàŸİãŞé®¿­1Pï^ÏŞ-ê÷£È(•¯;H°˜—óLÅè£³i7vë„òÃU§øÛÇWŸš"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "D¥›êÜo	&ßOÄ	ŞcQDjj›QdºVbA‹¾˜?RÓPá‰ZÔ;@5­a?a³ìœ'ùñhš#\~ÿı£š•6ñ–ÖÿpÃØÈ‡|¾_}[@®’Üº´#Pœ«ÕŒ—IÉF[ÿâ»2"Iª¾§»RI˜=„ó„“÷@ªe)u³Ïß›="A*ŸJ¥ë"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "D«wƒ‰vÔ˜Ap…«øÒ6ÔÜ·=:Jmêİi?**ıÔa?"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "¿2uãÁ>G’IMñg¶äÖó"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ä ës5¯V$•ÓL‰uËRàs"#"øûMŠÈt Ç/ÛhNG-¯+Øù½ñ#D/j÷@Y¶HV â„.®„Jòt,ºt|	w¦NĞ¦bÈT†ßáµ"\„h1Á"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "—‚q,FI<(‘ëØ(½Hƒí*C»SÙ9FĞá‰N{sá>¶±Ù3Âõ¥ç›Vu%Ğ×*fy†SBšátôíU½sâ}İxêİ7TÈ7%¹èçSñÈëó¦ÄÙÛĞap£=U°C€ºG¶Dró\ùˆ10„ü6RáØæÅ<GÃŞAæÊ?‚Ø4	,sjÉYÙßqnîÑ¸ïVÅ4°€ì{$øo	U›`@w‘Hæ©fÅ8¸j ŸO(Aµ…dÏæ†pfV¼"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "$½$”G»	oô2{eÒoÌİJÒ•Yùæª4Ê7š+³ö)[ì]™¥õ"ŞEº;°XÖÈZÃ›š0 	zadÙ›¿øNQøŠ€£ë0LLrtfe©Ôî˜SÎ»ÁCoÕÔIH—Û”‰C(}Ÿtx×74_Rîän¢-«7æ¦5{Ú3şu°[ÙFÜ»9$(ºXÍ)3Û[Gh«Q=çò5 ‘ğ”80ì/'p¨Äµ}I•¢g"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "R¤e¼ÚîPÚ?üàH¢b²ÿ«­åı	ûÊìïu}®SQ±<0¯lÀÕ»²ÿW•ğ²½l/€EN¤ÏÛÚXWØÕ¶K#”°^×Q¾@iÆ\œ}‹ÛşDzH=Î5m>rÅ·×¬w¢-Fï?^ÛQ4â>àÌÒ§ú¨ùÚıóâ…¯us¸á'~‹|æè	"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "˜vµÅ§€]2Å†zNº-ô³çj@\#N6ZÍ#H"™]}’v›è®¥t|Ë*=;ôÜ8)%E]%x H?&ûŠxCâÅºZi¡•«g¯£:SáÿÊ1ƒÆyeMÃ/ß=cÿH®iû¸-V©†7¢Ã_µYæ=Æõyvü‹ÃG˜‹aG¼ë‡‚Æaš¢Këu7#šaãL«ƒLy–H6ÓCÍşöÑ`ˆ­õş¦ˆ°¬U)Ç3ûV2şI.X±7G¹œ·±×Ç’Æ£"ÌÒêÄË,Ôv$­u¯›N •u©ídÿ;iÇÊû:!éùÃõ`—$)şÄÇlp:4¤%5Î.Òˆ JÔ‹2€V£kä*‰Ú‹üßÊ:–D”•NOŠïF_Î/óP©ä›³™˜7ËC¼FŒl.£²=k^-’@{N¨õ0¿¿#å¿gÖî"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "77Jù ÖúŸuÈ5+Œ¢íÁO¹G¯ö±-ª7-Ø‚!{DŒ^óüQ›«a­-ü¯V¶r2w¬º‚.ß,ÜŞ!Ó`¨™/–4\-‰Ò1BÛÜœÿ6h»!¨	ƒûÓ)(ş#ˆ.@iq©Š®÷£7Fã²³e˜U±àîl‡ã#÷Œ/›)ûêFUºP<é´úo"D¿Ócİk­®2d_¼b¢A{×”&&ÁkúQò¼õàù¶š£Ÿïˆ+ˆàfë‘Ì™²Yê”%Êƒöö¡©»˜Kk3¡zÊØŞ¯2Õ™›êî;@Zç«'®IU5İÅ0‚UÑ¸Œ‰°š‰sü±ø×üql=¾/:“–ãh¯Şt±‰à·ìÆì6°Ú›ö`‹í×{ãêò²÷mf-@Lï¦I™àãÄdŞ·0@WÎ6WzÅDºóJËãè$©C÷ÁIÂjJ²}»nPê²W#JNFrĞ¾ÙE“0Ü‡.h€Ùk¦¼‘ãÇ0"½aÒ(Ğ:&=%àÊ/aytğğ£Få~:ÈdâÅ7£ÍÕ¿´Ÿ¾_Ó}ğšÛµ]5's“Í‹4÷T{TV(¿	1s¼ÄÎzyíhë¾vtçÆŞ@Ø	ÿpvg(Š}¼Rí¨º¹Gú#*S¨¸V~ŸšT¢É™…ê!ílªc^s²Nñ¹Ót’/@Éõ0“)'’„5ıbO…§•è#ÏDI²âlbø"m»ÒÜ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÃªØD	Ê pçËòØ$PîADÖ‘¥ç¿vjM#Üâ¸xß4nqæ`ÉòÔJs5§uİv´ùó•ÛË’W¿Ê[û›Øi u]ãû'íÎ^»@Ib@Ù]ÛwµËxôbĞ#+ê«g±^Hå\ôfW²8È‚%^ĞòA„Y:1ÌLåÛ…Í^Ä›÷Dşé÷LQ·ÿfY9¶)5)}TjÊÀÀ‰Ğ¬ì5×nI5!“Öè#§n>>Mè¯Qí+ºxyŸ›åIˆWJ%&I^V'R%Ş*˜Š«¢'Ñ:t<äˆêEüZÒ1.Á—9zuŞã–¸o¥¿Ã­³™€J"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "{Úw=°ô‘©şáÕ¤m·7/Å´V;‚İÁ-ğú‚¼7X@l©ŒÉ…y‰ó™!wŒ¿ D\4_™Vo1oÆó±¶œu[Q"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "gµ6M'‡mè‘°$~ÓÄè#r4…9Ïúvì¸<zp2ÆvÌÿf5Ÿâå3ÍäP¦Ê?ˆ6F~šã!ùÒx¯‚y—!Š„	l•ŠÑ\êJØ²ËÅ€ÛP³ªç<ác%c’.¦ëœ6u*nQZ,iyaól„(^Òçi‘Êåè@ì=Ää›ï—N»Í¥äÑö¬©¸M¼"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Û8ñW4ÀíØŒÊ·ño.Ñ¯(½‚{câëÇæŞtô`‘ö_—ÿH¥¬‘²ñƒg£§‘¶„‹w>;7÷ÔğG<Şço–È†`ã¯”…we½ŒÎV¹pÃÏîÖt_=2q2‘ô“ğ‘³:Ëf$0 ~ÿˆá°Õt¢?òJh]C+®gñ¢©Ò²8şŞM¢àèXÜÕÒ5Í"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "H¸´Ó•WëØwJ>›Y$ê¾o‡BYê¼2æñº„<'âS¢ŞO—!4#]?½ˆÛ,ûf°÷¤Ò6¸S¯õÕ)E2Õ­ÍÛÂiË!3X6¹š$“u1îÇ¦ËW¦ªÖıõpMLUµ•VÜ¸eİô»òX¹xvú]¥à…À*&p²îZîüûªáÜAÃa­ğD‡+ş u5váÙlÓäjnºï*ßjò-3ø6¤\Çt¿ˆÍzP¢*1ğ³5åKÂ³‡g´ˆ¿I\ül#uLLF®™Ë‘4±h¨CTgÅ;höšC›‰ÑŒh„•yú«™·ºBÎl­bÑŒ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "|së˜Óõó“Ôb†ÉÏ°}‡„:¡«DW¯“F;0ºRñÕuQ½,fÉå0ö-’‰¼A —Jÿ¡Å›>şJÁrŸü˜´Vu©ØâëñJ\+A`LÆ”e†åÏ¤çÊdª¿¨ĞfDØÅÕOò:QOŠ€¼Í&Ÿ_MLÕRqÿ[c&Óˆm\ùßÄİ}B‘›º'™ê&3:ĞÄÕU&‹şB»EZíLã¯y¶åFn§Ò—_ñã/)oâ]‰ı1Ş?YN|HŸ”8;hJ Í®¯aÆk½Ç¸}ı&Ûò”ïXÆÇº"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Yq;ÅñÇñOX4P÷ Õ#n“ï‰m‰¢OñÅÁZöâñ!Zël¢bIŠ‚í‚(„Œ[./6#$i8%ë¢É	ç—,Fy[|¾(…Ãpiš3BìÁ9ˆñ|Ó8|!@q¦$Ç|ËnHõQüv®,ªï+8GvÑ6hŞœNğ¨Z,¨x²”o7èo˜ô•n¨Ù›h].(ÂYCğğjìáonêôE(]ìëx§×Mé)]±t¯ô<m“¬û@í¬UöÒ/à,˜6ÏŸ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "‰o XR†ôî…&É<(W:\EØ†ôŒ=£1-Üt…dÅP<]ÙÔ˜	`µâñ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Æh,f£¢ÊF­ñ$¼ÖànTf»'# *-UÍ	óèÙr2"ØúÙ(6GP~|KßÔ6¾¹n.İéP&^2ÚÕH¾l”¯…"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "¢wRsJuDÙi»?†3¸mŒ¡³xTCÇÜT8ó÷$§Ê8ç‚·³¡ÊË"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "wkê¼Üçô}Ùp½€Êš0]Ó?&Å|vı€Z6Õ"$sNj£İ4²×K1HRD	T¢6¡­Z8jWßqßëX>˜Ü^ğÜH5ı[‡ä{PP£çw1Â¸‹O°Â(à´Bkq°¢—q[ãî« f¦ª+"iÓûµîàš¦(õµõ5"óP/‘×y0é l6èÎ„ À•×µ+0AZãA‘†Øu>«5Èô™w£(Êx;rU¿Ö]ãÎÔ7övK–£>İ¿~GÍÒ]a…UMĞÛæäw–¹3;TvhPÚú’ıÄa"©+‚ÔW«HêF ‹á£ôÀWÃàÌ[ıªå¼×¶Nš~3?¨!şª2óÑÛäI÷ ñçÅ@å8€vV½Ëü"Ã\ëã{×bc¶Òæí|µ„ÒÏ†W¥m*fYò@çµq¾I$òƒ®E3Æ¤ó˜¬‘É€+snIÛ/"ş]¨•õ/¿	A(À[~v(eSæ¹J T•øŒLo„ó‡ˆ.E‹Ø\¼	gı2‡à5ñb“òèïcFrFT¦pš~òeÑ—ü¤&:Kô»+€¬óBW_Í·(°Î«>À"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "K/±àkÕwîâ=)Ì‡"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "¢÷.¡#JIßNkI‡Òù:Ù$Y_J;Ò'÷K¨ü	ùˆÉK?ÉèLÒ€Ÿ)šC73¢UõòštÛ>€ì§ô™€ÁÈ{³ÔzÑŸÏİÛWmáAÏá²µ&äôµÎª×s«í04ß ÇHİ•ÕÖ”Ş[“‡¦‰·‰/¹.“Â&eé£ì&6ñŒS"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Õ‡ìßA”:ÍípKäù«]"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "=ö¼>93¬n¥2·sÆH…“FÚ‡“Äù+€*eù/6ÿ hÛ@óóÕÓæÏçj”´"œj×D`ş†»ŒÚş‹¨CUıKP{”øqÀeB}¸¸º$+Êş¤(	vêDsˆãÉ’ô³S"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "îÄ*ÃeÁ,óò@ïR£oB>ÚÒì2ĞÖyéf+Kï?S¨¼åÜ<Ëú¥#ÀÜy0-"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Á¸«ÀëVÀvVŠ·µ9¶XTŸØ’²Ÿ¾ù6ƒ)ÌÃ)Ê`pzHHPY©ªß¬Vi!C¬å··×ŒHíí;BkÇ‰<B.}î8AIåÏY²|T©"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "\¼Ë%ŸX©Z(”ŞÓk&¦AĞòk\òd|í‡r2ûO÷=Ã„Ì·¶ÚÏ|Q-‰òk®D†àÉçc«#¥ì‹¨#Y´Ù^İÄÔíÎ“¦ùØãXæ8ßaî¶hD“‹ƒ??¤4y#}Udå&tú_:Óq?şyR¢Íèpå7qw.q‰Óß<¶ÓÌ®hPdòBæì‰¾å+7‹W£¯†Ö	B¶ÉçsîO˜)\Î=x!ŒµğÁÀÔl!—é ›j0o¼¾ç[´§ÆâZG¬­î+ñv‘öC«ø_	Ó×è¼ÓÊûÆbüñ‚nÀÊÒVÑ¡[Ë«Å“ø-g"¸FñK2o#J¶Æ–`e@rØË[P´œø”,÷_3ƒ§¯œ› £ÒŞæ²†µä³¤W—Õ}”™ÀY7[2~Ş•Ùcñìÿö±€œªÚCOæâG\¢ru¾–0ÂÍêg2úĞÇ(	4Ô«	?!¿¤R¯'5½düENŸBˆÏ·–íbäk»(y¢½<}Ìúš{Ìp´6M.’àœU³õ7)›í”¥Ÿ/š'‚“aº¶ôéu¥Y‚*´Ò×*˜¹ª›GíCtûu^˜;t´Í]´Lğ´Á"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "èC}ÓIc9M©~<3"Óš›š³n€¸›³&AB¦Ä KÕg,6;7%FtçNi\ÌeJGHyfÚ†%Ò6 Ò6uSå±çDs£®äU‚h’˜¼ışşûçG#Ü~yµĞ*S_v‰ãr~È0wÌîT	k‹43hÄ£¡(a%+^aUkcpíZ¥ìfãÊO¦]q9ã·¹³/?Å¤¥°A¶¡wvY!Q¨_eî$‘28WYèªšõì½ÓÁóg©vĞËç qÄFå¿8¸ÙRÊ.£œtî`ºñ}q  >—Òèåf¹ú^RªÔû^ç pT²ˆğ‘„Ñ‰ƒ¨´7ZÕägFñ:oX·!;‰"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÀÀ¤jØŠĞšÿøáŒiÖA÷/`a­hsRs;×û›Eêº¤÷Ï¥‰½¸®¦MÙ6)[çr¢ƒ¢ƒ^bèbnôåi¥öf“g-„Ş+¡Q¡á©<“{3w3sù·É‡ñÉº’O…£™"ZY¥³ë’á¹´¥d×q6Àixåy)ıê‰D9}I÷Ó7|šÍ]…°w@€sÒ”Ô)óÁ1$‹$ùÂI€PQ÷×ñí—¤à§FIè,^”Ë¼ü÷¾á4?gŠô’ıD×ÂrãˆÁ¡¬fY"‚6å•rROß¦ÏÅ©ñPºÃ(2F¹OˆquùÒ…ÚmÆ—Xí-løX]ö¦¦ÕO3bLZßâ4ÇgnÅõ_’Ğ‡¸óˆŠh#ôÓùvşdÊã…´ğ°õo;€–A·)ÏŒhª‰Ã‚£¦¨˜f;jÃnÊÎÇ3k[ôÁ)©ªİŞ›$„³“ÔÄ’p5äçKû,p1ÖqÆw¹U{'æiÕ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "øÌ\¹¬4oˆÇnËdÕÏ=÷#7ªı˜@Æ ´‘ÿ §',XTúì»šÕH3Y:‹_$rçšh§³6¶ºfík~;\¶))*¾7ç"\I™Af†È2Y1µI¸*ãßÓw™Pjhï‘Õ½È"WµKÎƒÈ¡bÔ‰OAeMEš)û|–Ç"ã{.4ş¸Á%Så„Ø‰™¢DıüÊóËªÎ1W’s•gİßîÊ´YÒ7ñ¯­gDüw˜Jó˜®dLÊÄÌÌè&rÿé˜®â±Öl–rìú@fÜ_öórDåãA0VJeå³öt*8ïí&–Ç¶ƒ]Ãp£Ç”ÕN0œ;¦l{dA8?ûX½´äÁw5ßjúˆdLÅUõY“&ôxù®èAQ&ô³ÔêèÜµçkÑTMØš/²¯TpSvãHSØ»ä•Ÿ<Sƒ²¹¹îN[ú(è–uñá-Z»ï¤jõÌÆ¶ùì·"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: ".Óí	êV„nßÉqúƒvÃäL{›@«ŠÅÂÅôÙŞü°6g"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "…÷S¢0¬Ü:2’ÄNŒ)KšCïÂc0XÛi<½©¶âU)û¼4ì(ˆˆİ‘Å÷jÌn–ªVmoŞğ°Ùô§æLıÈ´0Îø*o~'4W®B3dkF7µ€A±`ë‚q”ÚÕ(%|ïğìs5 ]@šáƒ“„Jå]5ã#IÖììq ¬@ís‰®;zù£úÎO ¶g^._"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "–\hv^SŸnv­|t U0ß>¯˜gdæ™äóÅœiXÊ9.âÎÊ(¡Ğjàd´CêÚÃğùÆœI5lõ¹ÇÚÏÙî±Ö:ú_ıdjö3á&÷Œ]¯~'o~ôŞw±ÙTÙ’T‚VöÒGª"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "pL˜-¬AKö}²)â ÷s\^8"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "^Š}&öKJ°xº	ÈÒÕkÈ2¸5È ”¹¾ìb%›7"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: " Í¤i£Ou¬O)ÃTŸÉÈ‚åK=Ú¦~¦¤—Ø}©çû=<ë¿]3­/ÈB"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "¢±V'¼‘L¸Z\<óğò¬ï*‹ÉÉtpàµ«r †ıré°DjÏPRtç}ÿÖo>,şÂ‹¢1¥Ùº_È«%¨Ğ+h"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "_Qİ1M•+è×Ä^®•íW¯:ˆğÚUw-„àzŠùqÛû×aèc;*Aï­÷NYn }™%/‘VèÕ|ø0¹Œ™œ=9tn¹­r<ç–4äÆËg¯ó·'5ş3Ü-6Êéå,“J\Œª[g“s|Ä›ZíV–nˆ¯°b—Fc_ŠÆ–\˜[kÛ­µIqGWGÈ€kû‡¿½ŸĞÏíÖ¹îm"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "°45 ÒúÜø®TÄÜİ2I˜§W[¾N0¸ßØx>²şm#î¼x»Ó°T©Îº9ÁÓµ*=ãREfÙáíı­¾]:½VÌû~Uó+èj¼ù£šè×Ê‘#[ s>èz‹o¥èDK,n@}\c%SÁÚ6+*’hn;^OÊC†›¿>Šîf¸D•"´:ÙÀä+lâI›ú®JÂXŒ]~ıOc÷–uã%)Ö„Xøûä»Ø÷;8æA­‘h5•®$ıaô‡N­\Ó•Î2JÛêœì"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "”“*£õ~1ÌxÚĞ—Ok?ø	óÄ§²â‹QowíÄíáç¶l€mËÚ¬r ¡&ó:ÙÊj"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ÿÊõrA-CŞrN«€LKjæ¥åìÀë³¦ñJ‹4qG– ¤ƒrM¤í ¼)²v¤&,)FI×œà'^” W Äß&"(·LğNš´—ô§Å~)ğmÑdØwúÖ4Ï§, ­ƒ|hûK)½²µ:Uìˆ¨!ZÑZ‘Ş™®Sš¾i~¡Üö‰š*±™e£½QäQhFxñh+\áø¦¾¡­æ2Q^,MàW–ñÒsaT_<ÖOëˆÒ×¡îKƒÄ„øÛ¤]KIwÆÀ”§§ßH@¡ÎŞ%êü%÷3gµïPOkª©ÚÉsº`â9ıù"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "<Ö÷5='…–¶òÁ_ku…²»:—}h£{ôÿvHïô…ªÑ}oÚc½0Ò4çWîœÖF”\ÁO‰—A½Ùæjâ$‘cÄn\È¥"6ğ²@ØA©ğ+¦Õ4Ey¿SÃ>S¸ˆ¿Ò’õ÷}„¥uu-á"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "v­¤Á=PùæPá"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "=¬`I'#E¯ô«´?Å}Şš¨òE*œ¾5ŞIw7‘ÉlXqD©|e»êŒ„à]½Z˜WæºÁ/J°ìÌòÔ,ëÇD¬ĞÜø2ÂËÜZªÀrS±y/–;­˜UgĞt“Û™–Î½ÊËlØæŒ òNS¿ıøõóÇ÷ÉóK*’«?Õñ¿”M9±z–ŒŠ3ÑØ—¬¨£«"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ù9­Záèîˆ‚q	<­ˆÛ¸|iZÏ&'ˆ¾MåŒöfó…öü;s‘r  ¤ÛØÊ†VDTVT]QåÙªYaŒŞìÄRùÒL%<+CÇÅ¥Rq'†”‹wqŠóÂ)³)u°Ë½rÕlB_GÎ&f¤H¡Ë<`y¾Æ”~Âªû	Ç8AĞ°3öèÃ^w`ò_Ç_iveo©õÛ_èhÄï«)Õ^åUÎøGgBåª;Z·Wş-®¸İÒ²‘ğLcáëxk(æºiuFŸ‚øÏ5Ÿ¢İW¬¼7rBËd8	aºBºÄ;§œ†ªªÂ/ašR÷ºê©î°úÛïLaÎïÆú&S}+>ÆGhA¡‚™-,¼«¢oPÂ»66Q³{ÖKF!ñº'rO´Ga¥ÉÊ#ÉB6c)"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "•˜†÷u¡ôn"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Æÿ^cç§ÔÖà¥e¶ì|°mïe"¶––FÕ‡+R‚ÿ>½âİ7Eñ‰·J+’îøò¹5J¤ì^¾ ¼ò;Ó4f”‚|Á…îæÎÌ…š:ÚG”ÁHŸÕßCìaV¦©## ­EÄÕ©¿Åo…¨–D÷ZÂéÓ•…’n@í®ZèR³•>{¥ÒŒÙƒ4·\ÆúÙı·¬Œ@¦Õ;Q£çóêàQÿM&óç8v0Õ6’QGÖ¬+?u“ÉÆİšIïá›ÄL$§ö£6¥‘GÂŠ„ÚÆŞÉ"­!õp[wJ7·‰ËcqÙ8hêÁüÿn7ÒÕ:)Œo\è×05÷20µ²7ÿŠŸµéîq@dú˜Ï¤;Dët‡8b?ºüæ@Ë7X¥D¡‰\›•g‡ªaĞ‹kHáƒ¡ÎØJî4Ë·tÜÇÙ‰ş%©óÒ?fñb©ÍDô9J=+y'@Jdé†4â"¡Gâ .]ï_?‰“Œä¹şï3xİ'$¦syºwÓŸ¹Ìd9Ì¼?Ù…„2	}µjçOªvCS]ªvÆÒõÕŒJ»z“pQÉ›¦oê¦‡“üS¸L³œyEV¼?˜2‹9Èò]™_‚|+Kn(o1q"LÎGzSd†•u	Eâ’)CV$X¡­Øc>qtY`ÜO•]º(è(,\	°ør³kÔj®ËÍ†®.£ßøÈ7Éu‹w†³«JÆHü¡ê98q\ù„t­NÙÊÄÆ'¦j¥–ñFTm'*îÃ*ö‰µşÕDˆETüóüÑùş³%«†ôõÃ#ñBÔz»Q(–pš<5a nŞ?P§Ù‘šr«°'5e`rØ·M«äèÜ"lºÕB¸Mk,³›!Ô’Î°5Í*Æ8iàG¦61Ù_¾jRñÿh°*îüJ2ì®@M¼n"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "l]Ã¦Õ}BŠëkì æŒz5wZ.yø ºš"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "õ0É£ZÍQ5ÅÓ,Tè•t/Z ôt7ı¯€í«/Å!["
+[E::hts_idx_push] Invalid record on sequence #4: end 1 < begin 8
+tbx_index_build3 failed: /datacommons/yoderlab/users/hkania/cheiro/results/geno/final//mzaz002.FS7.vcf.gz

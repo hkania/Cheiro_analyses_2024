@@ -1,0 +1,21 @@
+## Starting script qc_vcf.sh
+Mon Jul  1 10:07:54 PM EDT 2024
+
+## Indiv ID: mzaz001.FS6
+## VCF dir: /datacommons/yoderlab/users/hkania/cheiro/results/geno/final/
+## Input VCF file: /datacommons/yoderlab/users/hkania/cheiro/results/geno/final//mzaz001.FS6.vcf.gz
+## Base QC dir: /datacommons/yoderlab/users/hkania/cheiro/results/geno/qc/vcf_ind
+## Run bcftoolsStats: TRUE
+## Run bcftoolsStats by ind: FALSE
+
+## Run vcftools sitestats modules: TRUE
+
+## No .tbi file found...
+## Rezipping vcf using bgzip...
+## Indexing vcf with tabix...
+## Listing input VCF file:
+-rw-r--r--. 1 hpk4 yoderlab 4.5K Jul  1 22:07 /datacommons/yoderlab/users/hkania/cheiro/results/geno/final//mzaz001.FS6.vcf.gz
+
+------------------
+## Running bcftools-stats on entire vcf...
+No sample columns in /datacommons/yoderlab/users/hkania/cheiro/results/geno/final//mzaz001.FS6.vcf.gz

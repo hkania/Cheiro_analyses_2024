@@ -1,0 +1,35 @@
+## Starting script qc_vcf.sh
+Mon Jul  1 10:07:54 PM EDT 2024
+
+## Indiv ID: mzaz001.FS7
+## VCF dir: /datacommons/yoderlab/users/hkania/cheiro/results/geno/final/
+## Input VCF file: /datacommons/yoderlab/users/hkania/cheiro/results/geno/final//mzaz001.FS7.vcf.gz
+## Base QC dir: /datacommons/yoderlab/users/hkania/cheiro/results/geno/qc/vcf_ind
+## Run bcftoolsStats: TRUE
+## Run bcftoolsStats by ind: FALSE
+
+## Run vcftools sitestats modules: TRUE
+
+## No .tbi file found...
+## Rezipping vcf using bgzip...
+## Indexing vcf with tabix...
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "‹õ`ƒf"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "°9‚ï~‹›Ïğfı\D‹ fÙ:(@eë ‹«sGI4à;‚îiÒ\p XhëxkzÒ:­!^Îc1™•)KpAkÈ9}‰œãÑ®€Xš3,Öl›D¿o9qÔŠ"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "Ø"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ˆ•°"Ød€¬·ómÉ 9­.~d‹4Iø —óü·èæ7»®òt›œà²9À»W9!Yãè#ØÍ~©8TG÷ˆ­uš†U`­jŸ>è}%•>Içdí"ã‹hÉpÛÉr÷yÎı>ÁYÃˆ S„1”—,x»7©b…4vÄğwBˆCš€èXòÔ?ÆéJSYö¶›`H	yš¬¢ozÚh¾"àÏ•Ú\‹t“Á’’%Î\”Ñk¯#XšHyTp¡›‹¨€üOÁÎŸ‚EÉf¼(ÉõB^Â¦˜›RÍ£ 8"½Îş~–n6½„Š§páEù!È£"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: ";À²­H¦|ğÏ_YH¼ØÆñi°¹„ZË .*¨ôçÛ%Lêp·A–j´BDšFE€„îïG0Eş€eªIüioC>Şm˜ü‰=ßB–÷“ñõ¤ßğ|…`//»Á,CT;oÃˆSüœ,Óüşdİ›'‹5ò’-É¡6üdÀî'xö«äšw,†ÆÉÎ7€Iò$»0İL9kuÔ'E„=$@5¼	î¶Imø@Ñ¤§÷IãßÏÎ§,Lá…˜XäôştxusyŞÑ¸_¦ş2‡Ï‘síÒéÏƒhªª"Iı>¸¾¸ ßÙuÆ“›—Ï*H;X)ÍıÉhâ/¢U"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "‹÷YHåÇàÃQ( WØcQ& ¦ãËóÉFÛÀÆ~FÓ‚_§Zœ{Î³Rí#ˆ†@øu–‘£‰øŠÙÂ‹–Íï‚û¿…÷>ì¼Šxm-'†‘åáFoÁHÊ{òv!?BÄ§ŠöBÚL"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "ĞC¶’%pÛM¿'Õûk0´KTâ§IüÜğrø·¥lü‡ÅÒ¯’2NÁãÆŠóÅ²ùÔ†öÚp)""
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: "±åóéğjO|bÒw"
+[E::get_intv] Failed to parse TBX_VCF, was wrong -p [type] used?
+The offending line was: " VqB9ãD¨rÃÃ““ÍÇà£ªjÇPq›Öóà±Ş§8†ÿHîGaJØv(R#ËûÉéõûÉH”ÿwº-¿úÍ) øtrS—›ŒoğDlLBõÈŸšp«İ¶ïìR'zoşŞpSwìËËÓ¦¢dÙŒØ»¬H~W«LÒ¤­¹võõmÔ‡Õ]£-vxß'P]8lî#±BêzÊ,	Áq“ë†gF7ƒ£›¦Fà”t Ú‡(­®25¡:ÍUùp%NTlÀDUäR…Ÿ‹r¥«ª"
+[E::hts_idx_push] Invalid record on sequence #1: end 1 < begin 4
+tbx_index_build3 failed: /datacommons/yoderlab/users/hkania/cheiro/results/geno/final//mzaz001.FS7.vcf.gz

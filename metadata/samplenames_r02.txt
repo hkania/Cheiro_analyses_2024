@@ -1,0 +1,98 @@
+ID	ID.short	Sample_ID	genus	species	site	plate	lane	library	barcode	DNAtype	DNAconcNew	DNAconcOld
+atri003_r02_p4e01	atri003	AF4	Allocebus	trichotis	DPZ	4	H2JCYBBXY:1	newLib_failedInds	GATAGACA	WGA	65.2	17
+atri003_r02_p1b03	atri003	AF4	Allocebus	trichotis	DPZ	1	H2JCYBBXY:1	L1_redo	AACGCTTA	WGA	65.2	17
+atri005_r02_p1h04	atri005	AM3	Allocebus	trichotis	DPZ	1	H2JCYBBXY:1	L1_redo	CCTCTATC	WGA	118	26
+ccro009_r02_p1f05	ccro009	106196	Cheirogaleus	crossleyi	Ambatovy	1	H2JCYBBXY:1	L1_redo	TGGAACAA	WGA	99.2	126
+ccro011_r02_p1f02	ccro011	106198	Cheirogaleus	crossleyi	Ambatovy	1	H2JCYBBXY:1	L1_redo	TCCGTCTA	WGA	99.4	101
+ccro013_r02_p4g06	ccro013	106200	Cheirogaleus	crossleyi	Ambatovy	4	H2JCYBBXY:1	newLib_failedInds	ATAGCGAC	WGA	59	72
+ccro018_r02_p4b01	ccro018	106206	Cheirogaleus	crossleyi	Marojejy	4	H2JCYBBXY:1	newLib_failedInds	AACAACCA	WGA	83.8	218
+ccro024_r02_p4e06	ccro024	106185	Cheirogaleus	crossleyi	Tsinjoarivo	4	H2JCYBBXY:1	newLib_failedInds	GTACGCAA	WGA	13	58
+ccro029_r02_p4e02	ccro029	106212	Cheirogaleus	crossleyi	Tsinjoarivo	4	H2JCYBBXY:1	newLib_failedInds	GCTAACGA	WGA	99.8	56
+ccro029_r02_p1f04	ccro029	106212	Cheirogaleus	crossleyi	Tsinjoarivo	1	H2JCYBBXY:1	L1_redo	TGAAGAGA	WGA	99.8	56
+clav004_r02_p1c03	clav004	IAN	Cheirogaleus	lavasoensis type	The lost rainforest (Ivohibory)	1	H2JCYBBXY:1	L1_redo	AGTCACTA	gDNA	44.6	19
+clav011_r02_p4a05	clav011	SERENITY	Cheirogaleus	lavasoensis type	The lost rainforest (Ivohibory)	4	H2JCYBBXY:1	newLib_failedInds	CAGATCTG	gDNA	17.7	6
+cmaj001_r02_p4c04	cmaj001	106021	Cheirogaleus	major	DLC (wild caught?)	4	H2JCYBBXY:1	newLib_failedInds	CAACCACA	gDNA	4.93	NA
+cmaj004_r02_p4c02	cmaj004	106242	Cheirogaleus	major	Marojejy-low 67	4	H2JCYBBXY:1	newLib_failedInds	ATCCTGTA	gDNA	105	21
+cmaj005_r02_p4c03	cmaj005	106243	Cheirogaleus	major	Marojejy-low 67	4	H2JCYBBXY:1	newLib_failedInds	ATTGAGGA	gDNA	29.4	22
+cmaj010_r02_p1b06	cmaj010	106377	Cheirogaleus	major	Tsihomanaomby	1	H2JCYBBXY:1	L1_redo	ACACAGAA	gDNA	43.4	22
+cmed006_r02_p1a01	cmed006	106369	Cheirogaleus	medius	Tsihomanaomby	1	H2JCYBBXY:1	L1_redo	ACAAGCTA	gDNA	17.2	16
+cmed007_r02_p4h03	cmed007	106375	Cheirogaleus	medius	Tsihomanaomby	4	H2JCYBBXY:1	newLib_failedInds	CGACACAC	gDNA	16.9	18
+cmed008_r02_p1a05	cmed008	106379	Cheirogaleus	medius	Tsihomanaomby	1	H2JCYBBXY:1	L1_redo	AACGTGAT	gDNA	29.8	15
+csib002_r02_p4d02	csib002	106204	Cheirogaleus	sibreei	Marojejy	4	H2JCYBBXY:1	newLib_failedInds	CGAACTTA	WGA	154	99
+csib002_r02_p1f03	csib002	106204	Cheirogaleus	sibreei	Marojejy	1	H2JCYBBXY:1	L1_redo	TCTTCACA	WGA	154	99
+cspp001_r02_p1c05	cspp001	106208	Cheirogaleus	sp. - Marojej	Marojejy	1	H2JCYBBXY:1	L1_redo	ATTGAGGA	WGA	99.8	61
+mber003_r02_p4h01	mber003	Mbe_t_1329	Microcebus	berthae	Kirindy	4	H2JCYBBXY:1	newLib_failedInds	CCATCCTC	gDNA	41.8	14
+mber003_r02_p1c04	mber003	Mbe_t_1329	Microcebus	berthae	Kirindy	1	H2JCYBBXY:1	L1_redo	ATCCTGTA	gDNA	41.8	14
+mber006_r02_p4g04	mber006	Mbe_t_1331	Microcebus	berthae	Kirindy	4	H2JCYBBXY:1	newLib_failedInds	AGCCATGC	gDNA	13.4	17
+mgan003_r02_p4g05	mgan003	DLC7039m	Microcebus	ganzhorni	DLC	4	H2JCYBBXY:1	newLib_failedInds	AGGCTAAC	gDNA	16.7	17
+mgan007_r02_p1h06	mgan007	00-016A-8577	Microcebus	ganzhorni	Mandena	1	H2JCYBBXY:1	L1_redo	CGGATTGC	gDNA	18.7	14
+mgan010_r02_p1g03	mgan010	00-016A-8A1D	Microcebus	ganzhorni	Mandena	1	H2JCYBBXY:1	L1_redo	ACAGATTC	WGA	90.4	26
+mgan012_r02_p4a07	mgan012	00-016B-A6DE	Microcebus	ganzhorni	Mandena	4	H2JCYBBXY:1	newLib_failedInds	AGTACAAG	gDNA	18.4	17
+mgan015_r02_p4b06	mgan015	00072875E	Microcebus	ganzhorni	Mandena	4	H2JCYBBXY:1	newLib_failedInds	ACCTCCAA	gDNA	18.9	16
+mgan020_r02_p1h03	mgan020	00074C515B	Microcebus	ganzhorni	Mandena	1	H2JCYBBXY:1	L1_redo	CCTAATCC	gDNA	26	17
+mgan020_r02_p4e03	mgan020	00074C515B	Microcebus	ganzhorni	Mandena	4	H2JCYBBXY:1	newLib_failedInds	GCTCGGTA	gDNA	26	17
+mgan023_r02_p4f01	mgan023	00074DDF32	Microcebus	ganzhorni	Mandena	4	H2JCYBBXY:1	newLib_failedInds	TATCAGCA	WGA	104	13
+mgri003_r02_p4b03	mgri003	JMR019	Microcebus	griseorufus	Andrendahy	4	H2JCYBBXY:1	newLib_failedInds	AAGGTACA	WGA	63.8	21
+mgri004_r02_p1h05	mgri004	JMR020	Microcebus	griseorufus	Andrendahy	1	H2JCYBBXY:1	L1_redo	CGACACAC	WGA	41	17
+mgri005_r02_p1d06	mgri005	JMR008	Microcebus	griseorufus	Antabore	1	H2JCYBBXY:1	L1_redo	CGCATACA	WGA	20.8	21
+mgri011_r02_p4g01	mgri011	0659-A2C1	Microcebus	griseorufus	Beza Mahafaly – site 1 – P1 – Gallery Forest	4	H2JCYBBXY:1	newLib_failedInds	AATGTTGC	gDNA	19.9	19.3
+mgri014_r02_p1b05	mgri014	0659-CD62	Microcebus	griseorufus	Beza Mahafaly – site 1 – P1 – Gallery Forest	1	H2JCYBBXY:1	L1_redo	AAGGTACA	gDNA	38.8	21.6
+mgri020_r02_p1a06	mgri020	0652-8660	Microcebus	griseorufus	Beza Mahafaly – site 2 – P3 – Ihazoara Forest	1	H2JCYBBXY:1	L1_redo	CGCTGATC	gDNA	35	15.6
+mgri021_r02_p1b04	mgri021	0652-88E2	Microcebus	griseorufus	Beza Mahafaly – site 2 – P3 – Ihazoara Forest	1	H2JCYBBXY:1	L1_redo	AAGACGGA	gDNA	48.8	20.1
+mgri022_r02_p4b02	mgri022	0659-98ED	Microcebus	griseorufus	Beza Mahafaly – site 2 – P3 – Ihazoara Forest	4	H2JCYBBXY:1	newLib_failedInds	AAGACGGA	gDNA	89.4	27.3
+mgri022_r02_p1e02	mgri022	0659-98ED	Microcebus	griseorufus	Beza Mahafaly – site 2 – P3 – Ihazoara Forest	1	H2JCYBBXY:1	L1_redo	GCCACATA	gDNA	89.4	27.3
+mgri023_r02_p4f02	mgri023	0659-A03D	Microcebus	griseorufus	Beza Mahafaly – site 2 – P3 – Ihazoara Forest	4	H2JCYBBXY:1	newLib_failedInds	TGAAGAGA	gDNA	70.6	17
+mgri025_r02_p1f06	mgri025	065A-1BB5	Microcebus	griseorufus	Beza Mahafaly – site 2 – P3 – Ihazoara Forest	1	H2JCYBBXY:1	L1_redo	TGGCTTCA	gDNA	31.2	31.1
+mgri027_r02_p4g03	mgri027	0638-16C2	Microcebus	griseorufus	Beza Mahafaly – site 3 – P2 – Spiny Forest	4	H2JCYBBXY:1	newLib_failedInds	AGCACCTC	gDNA	17.1	23.7
+mgri028_r02_p1e05	mgri028	063B-D3CC	Microcebus	griseorufus	Beza Mahafaly – site 3 – P2 – Spiny Forest	1	H2JCYBBXY:1	L1_redo	GCTCGGTA	gDNA	26.8	8.8
+mgri032_r02_p4a02	mgri032	0659-C2CB	Microcebus	griseorufus	Beza Mahafaly – site 3 – P2 – Spiny Forest	4	H2JCYBBXY:1	newLib_failedInds	ACCACTGT	gDNA	25.4	14
+mgri034_r02_p4c05	mgri034	0659-D806	Microcebus	griseorufus	Beza Mahafaly – site 3 – P2 – Spiny Forest	4	H2JCYBBXY:1	newLib_failedInds	CAAGACTA	gDNA	23.1	36
+mgri035_r02_p1g05	mgri035	0659-F3DA	Microcebus	griseorufus	Beza Mahafaly – site 3 – P2 – Spiny Forest	1	H2JCYBBXY:1	L1_redo	AGCACCTC	gDNA	18.7	14.2
+mgri038_r02_p4h05	mgri038	000611A36D	Microcebus	griseorufus	Tsimanampetsotsa	4	H2JCYBBXY:1	newLib_failedInds	CTAAGGTC	WGA	54	18
+mgri039_r02_p4b05	mgri039	000611B1EF	Microcebus	griseorufus	Tsimanampetsotsa	4	H2JCYBBXY:1	newLib_failedInds	ACAGCAGA	gDNA	12.1	14
+mgri042_r02_p4d04	mgri042	000611CA5E	Microcebus	griseorufus	Tsimanampetsotsa	4	H2JCYBBXY:1	newLib_failedInds	CGCATACA	WGA	40.9	18
+mgri043_r02_p1g06	mgri043	00063932CD	Microcebus	griseorufus	Tsimanampetsotsa	1	H2JCYBBXY:1	L1_redo	AGCCATGC	gDNA	21.8	15
+mgri048_r02_p1g01	mgri048	JMR014	Microcebus	griseorufus	Vohondava	1	H2JCYBBXY:1	L1_redo	AATGTTGC	WGA	31.8	17
+mgri051_r02_p1c01	mgri051	JMR026	Microcebus	griseorufus	Vombositse	1	H2JCYBBXY:1	L1_redo	AGATCGCA	WGA	19	17
+mleh002_r02_p1d05	mleh002	MBB001	Microcebus	lehilahytsara	Ambatovy	1	H2JCYBBXY:1	L1_redo	CGACTGGA	WGA	115	22
+mleh004_r02_p1e04	mleh004	MBB003	Microcebus	lehilahytsara	Ambatovy	1	H2JCYBBXY:1	L1_redo	GCTAACGA	WGA	139	25
+mleh009_r02_p1d04	mleh009	MBB036	Microcebus	lehilahytsara	Ankafobe	1	H2JCYBBXY:1	L1_redo	CGAACTTA	WGA	17.8	19
+mleh026_r02_p4d06	mleh026	DWW3250	Microcebus	lehilahytsara	Tsinjoarivo	4	H2JCYBBXY:1	newLib_failedInds	CTGAGCCA	gDNA	23	17
+mmar002_r02_p4a06	mmar002	RMR136	Microcebus	marohita	Marolambo	4	H2JCYBBXY:1	newLib_failedInds	ATGCCTAA	WGA	20.8	17
+mmit003_r02_p1h02	mmit003	MBB014	Microcebus	mittermeieri	Anjanaharibe Sud	1	H2JCYBBXY:1	L1_redo	CCGACAAC	WGA	28.2	15
+mmit003_r02_p4d03	mmit003	MBB014	Microcebus	mittermeieri	Anjanaharibe Sud	4	H2JCYBBXY:1	newLib_failedInds	CGACTGGA	WGA	28.2	15
+mmur001_r02_p1b01	mmur001	RMR44	Microcebus	murinus	Andranomena	1	H2JCYBBXY:1	L1_redo	AACAACCA	gDNA	21.6	17
+mmur003_r02_p1e01	mmur003	RMR46	Microcebus	murinus	Andranomena	1	H2JCYBBXY:1	L1_redo	GATAGACA	WGA	35.5	29
+mmur005_r02_p4e04	mmur005	RMR48	Microcebus	murinus	Andranomena	4	H2JCYBBXY:1	newLib_failedInds	GGAGAACA	gDNA	3.82	20
+mmur007_r02_p4a04	mmur007	ADY1995	Microcebus	murinus	Belo-sur-mer	4	H2JCYBBXY:1	newLib_failedInds	CGCTGATC	WGA	70.7	15
+mmur008_r02_p4c01	mmur008	Joerg214	Microcebus	murinus	Kirindy	4	H2JCYBBXY:1	newLib_failedInds	AGATCGCA	gDNA	8.72	17
+mmur009_r02_p1d01	mmur009	Joerg33	Microcebus	murinus	Kirindy	1	H2JCYBBXY:1	L1_redo	CCGAAGTA	gDNA	12.5	17
+mmur010_r02_p1a04	mmur010	RMR25	Microcebus	murinus	Manamby	1	H2JCYBBXY:1	L1_redo	ACCACTGT	gDNA	57.2	17
+mmur015_r02_p4b04	mmur015	RMR17	Microcebus	murinus	Vohimena	4	H2JCYBBXY:1	newLib_failedInds	ACACAGAA	WGA	13.3	17
+mmur017_r02_p4f06	mmur017	RMR21	Microcebus	murinus	Vohimena	4	H2JCYBBXY:1	newLib_failedInds	TTCACGCA	WGA	29.6	17
+mmur018_r02_p4c06	mmur018	SMG8040	Microcebus	murinus	Vohimena	4	H2JCYBBXY:1	newLib_failedInds	CAATGGAA	WGA	31.5	22
+mmyo004_r02_p1g02	mmyo004	RMR82	Microcebus	myoxinus	Aboalimena	1	H2JCYBBXY:1	L1_redo	ACACGACC	gDNA	35.4	18
+mmyo004_r02_p4h02	mmyo004	RMR82	Microcebus	myoxinus	Aboalimena	4	H2JCYBBXY:1	newLib_failedInds	CCTCTATC	gDNA	35.4	18
+mmyo006_r02_p1a03	mmyo006	JMR073	Microcebus	myoxinus	Ambalimby	1	H2JCYBBXY:1	L1_redo	ACATTGGC	WGA	79.4	5
+mmyo007_r02_p4h04	mmyo007	JMR075	Microcebus	myoxinus	Ambalimby	4	H2JCYBBXY:1	newLib_failedInds	CGGATTGC	WGA	92.1	7
+mmyo010_r02_p4a01	mmyo010	SMG7396	Microcebus	myoxinus	Belo-sur-Tsiribihina	4	H2JCYBBXY:1	newLib_failedInds	ACAAGCTA	WGA	36.7	17
+mmyo010_r02_p1a02	mmyo010	SMG7396	Microcebus	myoxinus	Belo-sur-Tsiribihina	1	H2JCYBBXY:1	L1_redo	AAACATCG	WGA	36.7	17
+mmyo013_r02_p4d01	mmyo013	RMR35	Microcebus	myoxinus	Bemaraha	4	H2JCYBBXY:1	newLib_failedInds	CCGAAGTA	WGA	12.4	27
+mmyo013_r02_p1b02	mmyo013	RMR35	Microcebus	myoxinus	Bemaraha	1	H2JCYBBXY:1	L1_redo	AACCGAGA	WGA	12.4	27
+mrav004_r02_p1d02	mrav004	SMG8690	Microcebus	ravelobensis	Ankarafantsika	1	H2JCYBBXY:1	L1_redo	CCGTGAGA	gDNA	17	17
+mruf006_r02_p1h01	mruf006	E0F72	Microcebus	rufus	Ranomafana	1	H2JCYBBXY:1	L1_redo	CCATCCTC	gDNA	45.5	17
+mruf009_r02_p4e05	mruf009	F400M95	Microcebus	rufus	Ranomafana	4	H2JCYBBXY:1	newLib_failedInds	GGTGCGAA	WGA	88.7	27
+mspp004_r02_p1c06	mspp004	MBB021	Microcebus	sp. - Mananara Nord	Mananara Nord	1	H2JCYBBXY:1	L1_redo	CAACCACA	WGA	11.8	17
+mspp006_r02_p4f04	mspp006	MBB024	Microcebus	sp. - Mananara Nord	Mananara Nord	4	H2JCYBBXY:1	newLib_failedInds	TGGCTTCA	gDNA	12.5	13
+mspp009_r02_p4d05	mspp009	MBB028	Microcebus	sp. - Mananara Nord	Mananara Nord	4	H2JCYBBXY:1	newLib_failedInds	CTCAATGA	gDNA	11.7	17
+mspp011_r02_p4a03	mspp011	RMR154	Microcebus	sp. - Montagne d'Ambre	Montagne d’Ambre	4	H2JCYBBXY:1	newLib_failedInds	AACGTGAT	WGA	76.2	17
+mspp011_r02_p1g04	mspp011	RMR154	Microcebus	sp. - Montagne d'Ambre	Montagne d’Ambre	1	H2JCYBBXY:1	L1_redo	AGATGTAC	WGA	76.2	17
+mspp015_r02_p1c02	mspp015	MBB057	Microcebus	sp. - Tsihomanaomby	Tsihomanaomby	1	H2JCYBBXY:1	L1_redo	AGCAGGAA	WGA	96.6	17
+mtan003_r02_p4f05	mtan003	RMR204	Microcebus	tanosi	Ivorona	4	H2JCYBBXY:1	newLib_failedInds	TGGTGGTA	WGA	14.8	19
+mtan008_r02_p1f01	mtan008	RMR211	Microcebus	tanosi	Manantantely	1	H2JCYBBXY:1	L1_redo	TATCAGCA	WGA	40	19
+mtan009_r02_p1e06	mtan009	RMR213	Microcebus	tanosi	Manantantely	1	H2JCYBBXY:1	L1_redo	GGAGAACA	WGA	21.2	18
+mzaz001_r02_p4h06	mzaz001	DLC2301f	Mirza	zaza	DLC	4	H2JCYBBXY:1	newLib_failedInds	GAACAGGC	gDNA	28.2	19
+mzaz003_r02_p1d03	mzaz003	DLC2316m	Mirza	zaza	DLC	1	H2JCYBBXY:1	L1_redo	CCTCCTGA	gDNA	33	16
+pfur001_r02_p1e03	pfur001	DPZ1	Phaner	furcifer	DPZ	1	H2JCYBBXY:1	L1_redo	GCGAGTAA	WGA	18.1	26
+pfur002_r02_p4f03	pfur002	DPZ17	Phaner	furcifer	DPZ	4	H2JCYBBXY:1	newLib_failedInds	TGGAACAA	WGA	16.1	21
+pfur003_r02_p4g02	pfur003	DPZ2	Phaner	furcifer	DPZ	4	H2JCYBBXY:1	newLib_failedInds	AGATGTAC	WGA	13.8	32

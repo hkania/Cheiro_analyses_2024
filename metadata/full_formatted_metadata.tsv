@@ -1,0 +1,94 @@
+﻿sample	locality	date	genus	species	microchip	ID	sex	BM (g)	barcode well	barcode	ng/ul	ul	ul buffer	final ng	final ul	prepped by	RADseq library	RADseq lane
+MBB083	Anjajavy 	3/24/2018 	Cheirogaleus 	sp. 	0007ACC5F4 	Joelle 	female 	215 	G01	AATGTTGC	30.8	1.6	8.4	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB084	Anjajavy 	3/24/2018 	Cheirogaleus 	sp. 	0007ABBF3E 	Dolan 	male 	291 	G02	ACACTGAC	29	1.7	8.3	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB087	Anjajavy 	3/25/2018 	Cheirogaleus 	sp. 	n/a 	Leditra 	male 	200 	G03	ACAGATTC	17.3	2.9	7.1	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB123	Anjajavy 	7/11/2018 	Cheirogaleus 	sp. 	0007ABA52E 	Betsy 	female 	257 	G04	AGATGTAC	16.2	3.1	6.9	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB124	Anjajavy 	11/10/2019 	Cheirogaleus 	sp. 	0007AEC711 	Max 	male 	164 	G05	AGCACCTC	16	3.1	6.9	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB128	Anjajavy 	11/10/2019 	Cheirogaleus 	sp. 	0007AD54FE 	Felo 	male 	103 	G06	AGCCATGC	14.1	3.5	6.5	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB133	Anjajavy 	11/12/2019 	Cheirogaleus 	sp. 	0007AEFB79 	Soa 	female 	159 	G07	AGGCTAAC	10.5	4.8	5.2	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB134	Anjajavy 	11/13/2019 	Cheirogaleus 	sp. 	0007AD6D4E 	Thorin 	male 	156 	G08	ATAGCGAC	36	1.4	8.6	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB081	Anjajavy 	11/13/2019 	Cheirogaleus 	sp. 	0007AEE91E 	Wiggly 	female 	99 	G09	ACGACAAG	16	3.1	6.9	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+DLCMallard	DLC 	  	Cheirogaleus 	medius 	  	Mallard 	male 	n/a 	G10	ATTGGCTC	13.8	3.6	6.4	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+DLCJonas	DLC 	  	Cheirogaleus 	medius 	  	Jonas 	male 	n/a 	G11	CAAGGAGC	23	2.2	7.8	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+DLCTanager	DLC 	  	Cheirogaleus 	medius 	  	Tanager 	male 	n/a 	G12	CACCTTAC	47	1.1	8.9	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB139	Kirindy 	2/28/2020 	Cheirogaleus 	medius 	0007CE3FE4/0007CE4617 	Odilon 	male 	176 	H01	CCATCCTC	17.7	10	0	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB138	Kirindy 	2/26/2020 	Cheirogaleus 	medius 	0007CE36C3 	Miso 	female 	135 	H02	CCGACAAC	38.6	1.3	8.7	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB135	Anjajavy 	11/14/2019 	Cheirogaleus 	sp. 	0007AD5E91 	Tantely 	female 	174 	H03	AGTCAAGC	21.8	2.3	7.7	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB137	Anjajavy 	11/15/2019 	Cheirogaleus 	sp. 	n/a 	Macarroni 	male 	175 	H04	CCTCTATC	25.4	2	8	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB136	Anjajavy 	11/14/2019 	Cheirogaleus 	sp. 	0007ADBF93 	Spaghetti 	male 	168 	H05	CGACACAC	26.6	1.9	8.1	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBB139r	Kirindy 	3/4/2020 	Cheirogaleus 	medius 	0007CE3FE4/0007CE4617 	Odilon 	male 	184 	H06	CGGATTGC	18.5	2.7	7.3	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+MBBVireo	DLC 	  	Cheirogaleus 	medius 	  	Vireo 	female 	n/a 	H07	CTAAGGTC	96.6	0.5	9.5	50	10	AKF	Lemur-21-3-1	GC3F-AF-7211(#6712)
+ccro001	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106188	NA	NA	NA	AGGCTAAC	NA	NA	NA	NA	NA	NA	L2	HVCLFBBXX:2to5
+ccro002	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106189	NA	NA	NA	GTGTTCTA	NA	NA	NA	NA	NA	NA	L4	HVCLFBBXX:2to5
+ccro003	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106190	NA	NA	NA	GTCTGTCA	NA	NA	NA	NA	NA	NA	L6	HVCLFBBXX:2to5
+ccro004	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106191	NA	NA	NA	CCTCCTGA	NA	NA	NA	NA	NA	NA	L3	HVCLFBBXX:2to5
+ccro005	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106192	NA	NA	NA	ATTGGCTC	NA	NA	NA	NA	NA	NA	L4	HVCLFBBXX:2to5
+ccro006	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106193	NA	NA	NA	CAAGACTA	NA	NA	NA	NA	NA	NA	L4	HVCLFBBXX:2to5
+ccro007	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106194	NA	NA	NA	CAGCGTTA	NA	NA	NA	NA	NA	NA	L2	HVCLFBBXX:2to5
+ccro008	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106195	NA	NA	NA	AGAGTCAA	NA	NA	NA	NA	NA	NA	L2	HVCLFBBXX:2to5
+ccro010	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106197	NA	NA	NA	AAGGACAC	NA	NA	NA	NA	NA	NA	L2	HVCLFBBXX:2to5
+ccro012	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106199	NA	NA	NA	GGAGAACA	NA	NA	NA	NA	NA	NA	L3	HVCLFBBXX:2to5
+ccro014	Ankafobe	NA	Cheirogaleus	crossleyi	NA	106383	NA	NA	NA	GCGAGTAA	NA	NA	NA	NA	NA	NA	L3	HVCLFBBXX:2to5
+ccro015	Marojejy	NA	Cheirogaleus	crossleyi	NA	106202	NA	NA	NA	TGGCTTCA	NA	NA	NA	NA	NA	NA	L5	HVCLFBBXX:2to5
+ccro016	Marojejy	NA	Cheirogaleus	crossleyi	NA	106203	NA	NA	NA	CACTTCGA	NA	NA	NA	NA	NA	NA	L6	HVCLFBBXX:2to5
+ccro017	Marojejy	NA	Cheirogaleus	crossleyi	NA	106205	NA	NA	NA	CTGAGCCA	NA	NA	NA	NA	NA	NA	L6	HVCLFBBXX:2to5
+ccro019	Marojejy north	NA	Cheirogaleus	crossleyi	NA	LINE	NA	NA	NA	AACAACCA	NA	NA	NA	NA	NA	NA	L5	HVCLFBBXX:2to5
+ccro020	Tsihomanaomby	NA	Cheirogaleus	crossleyi	NA	106373	NA	NA	NA	GATAGACA	NA	NA	NA	NA	NA	NA	L3	HVCLFBBXX:2to5
+ccro021	Tsihomanaomby	NA	Cheirogaleus	crossleyi	NA	106386	NA	NA	NA	CGAACTTA	NA	NA	NA	NA	NA	NA	L5	HVCLFBBXX:2to5
+ccro022	Tsihomanaomby	NA	Cheirogaleus	crossleyi	NA	106387	NA	NA	NA	ACGTATCA	NA	NA	NA	NA	NA	NA	L6	HVCLFBBXX:2to5
+ccro023	Tsinjoarivo	NA	Cheirogaleus	crossleyi	NA	106184	NA	NA	NA	AATCCGTC	NA	NA	NA	NA	NA	NA	L6	HVCLFBBXX:2to5
+ccro025	Tsinjoarivo	NA	Cheirogaleus	crossleyi	NA	106187	NA	NA	NA	CACTTCGA	NA	NA	NA	NA	NA	NA	L4	HVCLFBBXX:2to5
+ccro026	Tsinjoarivo	NA	Cheirogaleus	crossleyi	NA	106209	NA	NA	NA	ACGTATCA	NA	NA	NA	NA	NA	NA	L2	HVCLFBBXX:2to5
+ccro027	Tsinjoarivo	NA	Cheirogaleus	crossleyi	NA	106210	NA	NA	NA	AATCCGTC	NA	NA	NA	NA	NA	NA	L2	HVCLFBBXX:2to5
+ccro028	Tsinjoarivo	NA	Cheirogaleus	crossleyi	NA	106211	NA	NA	NA	TCCGTCTA	NA	NA	NA	NA	NA	NA	L5	HVCLFBBXX:2to5
+cmaj003	Marojejy	NA	Cheirogaleus	major	NA	106207	NA	NA	NA	GGAGAACA	NA	NA	NA	NA	NA	NA	L5	HVCLFBBXX:2to5
+cmaj006	Marojejy-low 67	NA	Cheirogaleus	major	NA	106244	NA	NA	NA	CATACCAA	NA	NA	NA	NA	NA	NA	L6	HVCLFBBXX:2to5
+cmaj007	Marojejy-low 67	NA	Cheirogaleus	major	NA	106245	NA	NA	NA	CGCTGATC	NA	NA	NA	NA	NA	NA	L5	HVCLFBBXX:2to5
+cmaj008	Marojejy-low 67	NA	Cheirogaleus	major	NA	106252	NA	NA	NA	CATCAAGT	NA	NA	NA	NA	NA	NA	L6	HVCLFBBXX:2to5
+cmaj009	Tsihomanaomby	NA	Cheirogaleus	major	NA	106371	NA	NA	NA	CATACCAA	NA	NA	NA	NA	NA	NA	L2	HVCLFBBXX:2to5
+cmed002	Tsihomanaomby	NA	Cheirogaleus	medius	NA	106294	NA	NA	NA	AATCCGTC	NA	NA	NA	NA	NA	NA	L4	HVCLFBBXX:2to5
+cmed003	Tsihomanaomby	NA	Cheirogaleus	medius	NA	106295	NA	NA	NA	CGCATACA	NA	NA	NA	NA	NA	NA	L5	HVCLFBBXX:2to5
+cmed004	Tsihomanaomby	NA	Cheirogaleus	medius	NA	106296	NA	NA	NA	GACAGTGC	NA	NA	NA	NA	NA	NA	L4	HVCLFBBXX:2to5
+cmed005	Tsihomanaomby	NA	Cheirogaleus	medius	NA	106356	NA	NA	NA	TTCACGCA	NA	NA	NA	NA	NA	NA	L2	HVCLFBBXX:2to5
+cmed009	Tsihomanaomby	NA	Cheirogaleus	medius	NA	106385	NA	NA	NA	AGATCGCA	NA	NA	NA	NA	NA	NA	L3	HVCLFBBXX:2to5
+csib001	Marojejy	NA	Cheirogaleus	sibreei	NA	106201	NA	NA	NA	CATCAAGT	NA	NA	NA	NA	NA	NA	L4	HVCLFBBXX:2to5
+csib003	Tsinjoarivo	NA	Cheirogaleus	sibreei	NA	106186	NA	NA	NA	CAATGGAA	NA	NA	NA	NA	NA	NA	L6	HVCLFBBXX:2to5
+mzaz001	DLC	NA	Mirza	zaza	NA	DLC2301f	NA	NA	NA	ATCATTCC	NA	NA	NA	NA	NA	NA	L6	HVCLFBBXX:2to5
+mzaz002	DLC	NA	Mirza	zaza	NA	DLC2304m	NA	NA	NA	CAATGGAA	NA	NA	NA	NA	NA	NA	L2	HVCLFBBXX:2to5
+mzaz003	DLC	NA	Mirza	zaza	NA	DLC2316m	NA	NA	NA	CCTCCTGA	NA	NA	NA	NA	NA	NA	L1	HVCLFBBXX:2to5
+mzaz004	DLC	NA	Mirza	zaza	NA	DLC319m	NA	NA	NA	AAACATCG	NA	NA	NA	NA	NA	NA	L3	HVCLFBBXX:2to5
+mzaz005	DLC	NA	Mirza	zaza	NA	DLC323f	NA	NA	NA	CCTCTATC	NA	NA	NA	NA	NA	NA	L5	HVCLFBBXX:2to5
+ccro009	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106196	NA	NA	NA	TGGAACAA	NA	NA	NA	NA	NA	NA	L1	HVCLFBBXX:2to5	ccro009_r01_p1f05
+ccro011	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106198	NA	NA	NA	TCCGTCTA	NA	NA	NA	NA	NA	NA	L1	HVCLFBBXX:2to5	ccro011_r01_p1f02
+ccro013	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106200	NA	NA	NA	ACACGACC	NA	NA	NA	NA	NA	NA	L5	HVCLFBBXX:2to5	ccro013_r01_p3g02
+ccro018	Marojejy	NA	Cheirogaleus	crossleyi	NA	106206	NA	NA	NA	CAGATCTG	NA	NA	NA	NA	NA	NA	L2	HVCLFBBXX:2to5	ccro018_r01_p1a07
+ccro024	Tsinjoarivo	NA	Cheirogaleus	crossleyi	NA	106185	NA	NA	NA	TGGTGGTA	NA	NA	NA	NA	NA	NA	L6	HVCLFBBXX:2to5	ccro024_r01_p3f07
+ccro029	Tsinjoarivo	NA	Cheirogaleus	crossleyi	NA	106212	NA	NA	NA	TGAAGAGA	NA	NA	NA	NA	NA	NA	L1	HVCLFBBXX:2to5	ccro029_r01_p1f04
+cmaj004	Marojejy-low 67	NA	Cheirogaleus	major	NA	106242	NA	NA	NA	GGTGCGAA	NA	NA	NA	NA	NA	NA	L2	HVCLFBBXX:2to5	cmaj004_r01_p1e07
+cmaj004	Marojejy-low 67	NA	Cheirogaleus	major	NA	106242	NA	NA	NA	GCGAGTAA	NA	NA	NA	NA	NA	NA	L5	HVCLFBBXX:2to5	cmaj004_r01_p3e03
+cmaj005	Marojejy-low 67	NA	Cheirogaleus	major	NA	106243	NA	NA	NA	ATTGGCTC	NA	NA	NA	NA	NA	NA	L2	HVCLFBBXX:2to5	cmaj005_r01_p1g10
+cmaj010	Tsihomanaomby	NA	Cheirogaleus	major	NA	106377	NA	NA	NA	ACACAGAA	NA	NA	NA	NA	NA	NA	L1	HVCLFBBXX:2to5	cmaj010_r01_p1b06
+cmed001	DLC	NA	Cheirogaleus	medius	NA	106354	NA	NA	NA	CTGGCATA	NA	NA	NA	NA	NA	NA	L2	HVCLFBBXX:2to5	cmed001_r01_p1d09
+cmed001	DLC	NA	Cheirogaleus	medius	NA	106354	NA	NA	NA	ACCTCCAA	NA	NA	NA	NA	NA	NA	L6	HVCLFBBXX:2to5	cmed001_r01_p3b08
+cmed006	Tsihomanaomby	NA	Cheirogaleus	medius	NA	106369	NA	NA	NA	ACAAGCTA	NA	NA	NA	NA	NA	NA	L1	HVCLFBBXX:2to5	cmed006_r01_p1a01
+cmed007	Tsihomanaomby	NA	Cheirogaleus	medius	NA	106375	NA	NA	NA	AACCGAGA	NA	NA	NA	NA	NA	NA	L3	HVCLFBBXX:2to5	cmed007_r01_p2b02
+cmed008	Tsihomanaomby	NA	Cheirogaleus	medius	NA	106379	NA	NA	NA	AACGTGAT	NA	NA	NA	NA	NA	NA	L1	HVCLFBBXX:2to5	cmed008_r01_p1a05
+csib002	Marojejy	NA	Cheirogaleus	sibreei	NA	106204	NA	NA	NA	TCTTCACA	NA	NA	NA	NA	NA	NA	L1	HVCLFBBXX:2to5	csib002_r01_p1f03
+csib002	Marojejy	NA	Cheirogaleus	sibreei	NA	106204	NA	NA	NA	GAACAGGC	NA	NA	NA	NA	NA	NA	L6	HVCLFBBXX:2to5	csib002_r01_p3h08
+cspp001	Marojejy	NA	Cheirogaleus	sp. - Marojej	NA	106208	NA	NA	NA	ATTGAGGA	NA	NA	NA	NA	NA	NA	L1	HVCLFBBXX:2to5	cspp001_r01_p1c05
+ccro009	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106196	NA	NA	NA	TGGAACAA	NA	NA	NA	NA	NA	NA	L1_redo	H2JCYBBXY:1	ccro009_r02_p1f05
+ccro011	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106198	NA	NA	NA	TCCGTCTA	NA	NA	NA	NA	NA	NA	L1_redo	H2JCYBBXY:1	ccro011_r02_p1f02
+ccro013	Ambatovy	NA	Cheirogaleus	crossleyi	NA	106200	NA	NA	NA	ATAGCGAC	NA	NA	NA	NA	NA	NA	newLib_failedInds	H2JCYBBXY:1	ccro013_r02_p4g06
+ccro018	Marojejy	NA	Cheirogaleus	crossleyi	NA	106206	NA	NA	NA	AACAACCA	NA	NA	NA	NA	NA	NA	newLib_failedInds	H2JCYBBXY:1	ccro018_r02_p4b01
+ccro024	Tsinjoarivo	NA	Cheirogaleus	crossleyi	NA	106185	NA	NA	NA	GTACGCAA	NA	NA	NA	NA	NA	NA	newLib_failedInds	H2JCYBBXY:1	ccro024_r02_p4e06
+ccro029	Tsinjoarivo	NA	Cheirogaleus	crossleyi	NA	106212	NA	NA	NA	GCTAACGA	NA	NA	NA	NA	NA	NA	newLib_failedInds	H2JCYBBXY:1	ccro029_r02_p4e02
+ccro029	Tsinjoarivo	NA	Cheirogaleus	crossleyi	NA	106212	NA	NA	NA	TGAAGAGA	NA	NA	NA	NA	NA	NA	L1_redo	H2JCYBBXY:1	ccro029_r02_p1f04
+cmaj004	Marojejy-low 67	NA	Cheirogaleus	major	NA	106242	NA	NA	NA	ATCCTGTA	NA	NA	NA	NA	NA	NA	newLib_failedInds	H2JCYBBXY:1	cmaj004_r02_p4c02
+cmaj005	Marojejy-low 67	NA	Cheirogaleus	major	NA	106243	NA	NA	NA	ATTGAGGA	NA	NA	NA	NA	NA	NA	newLib_failedInds	H2JCYBBXY:1	cmaj005_r02_p4c03
+cmaj010	Tsihomanaomby	NA	Cheirogaleus	major	NA	106377	NA	NA	NA	ACACAGAA	NA	NA	NA	NA	NA	NA	L1_redo	H2JCYBBXY:1	cmaj010_r02_p1b06
+cmed006	Tsihomanaomby	NA	Cheirogaleus	medius	NA	106369	NA	NA	NA	ACAAGCTA	NA	NA	NA	NA	NA	NA	L1_redo	H2JCYBBXY:1	cmed006_r02_p1a01
+cmed007	Tsihomanaomby	NA	Cheirogaleus	medius	NA	106375	NA	NA	NA	CGACACAC	NA	NA	NA	NA	NA	NA	newLib_failedInds	H2JCYBBXY:1	cmed007_r02_p4h03
+cmed008	Tsihomanaomby	NA	Cheirogaleus	medius	NA	106379	NA	NA	NA	AACGTGAT	NA	NA	NA	NA	NA	NA	L1_redo	H2JCYBBXY:1	cmed008_r02_p1a05
+csib002	Marojejy	NA	Cheirogaleus	sibreei	NA	106204	NA	NA	NA	CGAACTTA	NA	NA	NA	NA	NA	NA	newLib_failedInds	H2JCYBBXY:1	csib002_r02_p4d02
+csib002	Marojejy	NA	Cheirogaleus	sibreei	NA	106204	NA	NA	NA	TCTTCACA	NA	NA	NA	NA	NA	NA	L1_redo	H2JCYBBXY:1	csib002_r02_p1f03
+cspp001	Marojejy	NA	Cheirogaleus	sp. - Marojej	NA	106208	NA	NA	NA	ATTGAGGA	NA	NA	NA	NA	NA	NA	L1_redo	H2JCYBBXY:1	cspp001_r02_p1c05

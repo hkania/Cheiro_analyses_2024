@@ -1,0 +1,49 @@
+R 4.0.0
+
+Infile with original scaffold sizes: /datacommons/yoderlab/users/hkania/cheiro/reference_genome/cheiro_scaff_lengths.txt 
+Infile with index of superscaffolds-to-scaffolds: /cwork/hpk4/cheiro_refgenome/fasta/joint_index.txt 
+Infile with scaffolds to exclude: /datacommons/yoderlab/users/hkania/cheiro/reference_genome/scaffolds.nonAutosomal.txt 
+Outfile with lookup for superscaffolds-to-scaffolds: /cwork/hpk4/cheiro_refgenome/fasta/ref_genome_mar19_merged.scaffoldIndexLookup.txt 
+Outfile (bed) with regions to exclude from bam: /cwork/hpk4/cheiro_refgenome/fasta/ref_genome_mar19_merged.nonAutosomalCoords.bed 
+Outfile with list of scaffolds: /cwork/hpk4/cheiro_refgenome/fasta/ref_genome_mar19_merged.scaffoldList.txt 
+Number of Ns between scaffolds: 1000 
+
+Nr of rows in scaf.index: 3231 
+
+Showing head of scaf.index df...
+     superscaffold index          scaffold scaffold.length
+1: Super_Scaffold0     0 NW_VBSM01000001.1            1762
+2: Super_Scaffold0     1 NW_VBSM01000002.1            2436
+3: Super_Scaffold0     2 NW_VBSM01000003.1            1236
+4: Super_Scaffold0     3 NW_VBSM01000004.1            2424
+5: Super_Scaffold0     4 NW_VBSM01000005.1            4705
+6: Super_Scaffold0     5 NW_VBSM01000006.1            1382
+
+Showing tail of scaf.index df...
+    superscaffold index       scaffold scaffold.length
+1: VBSM01003214.1     0 VBSM01003214.1        11799393
+2: VBSM01003215.1     0 VBSM01003215.1        37775272
+3: VBSM01003218.1     0 VBSM01003218.1         7542502
+4: VBSM01003225.1     0 VBSM01003225.1         6040099
+5: VBSM01003228.1     0 VBSM01003228.1         4459879
+6: VBSM01003230.1     0 VBSM01003230.1         5599224
+
+Showing class of scaf.index columns...
+
+  superscaffold           index        scaffold scaffold.length 
+    "character"       "integer"     "character"       "integer" 
+
+Showing head of scaf.index df...
+# A tibble: 6 x 6
+# Groups:   superscaffold [1]
+  superscaffold   index scaffold          scaffold.length start   end
+  <chr>           <int> <chr>                       <int> <dbl> <dbl>
+1 Super_Scaffold0     0 NW_VBSM01000001.1            1762     0  1762
+2 Super_Scaffold0     1 NW_VBSM01000002.1            2436  2762  5198
+3 Super_Scaffold0     2 NW_VBSM01000003.1            1236  6198  7434
+4 Super_Scaffold0     3 NW_VBSM01000004.1            2424  8434 10858
+5 Super_Scaffold0     4 NW_VBSM01000005.1            4705 11858 16563
+6 Super_Scaffold0     5 NW_VBSM01000006.1            1382 17563 18945
+Done with script.
+[1] "2024-03-25 14:41:23 EDT"
+R 4.0.0

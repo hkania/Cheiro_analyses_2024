@@ -7,4 +7,4 @@ For overview of the computational analyses performed up to the date above and ad
 * `/metadata`: Includes all pertinent metadata for the Cheiro project.
 * `/paths`: Includes .txt file of paths on the DCC cluster.
 * `/reference_genome`: Includes all files used in generation of the scaffolded Cheiro reference genome.
-* `/vcf_generation`: Includes al files used in generation of the VCF files.
+* `/vcf_generation`: Includes all files used in generation of the VCF files.
